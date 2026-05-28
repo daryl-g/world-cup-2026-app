@@ -80,14 +80,38 @@
         right: 0.5rem;
         line-height: 0;
     }
+
+    .info-popup {
+        display: none;
+        position: absolute;
+        top: 2.5rem;
+        right: 0.5rem;
+        align-items: center;
+        justify-content: center;
+        background-color: rgba(0, 0, 0, 0.8);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        color: white;
+        padding: 1.5rem 0.8rem 0.5rem;
+        border-radius: 10px;
+        width: max-content;
+    }
+
+    .home-info-btn:hover + .info-popup {
+        display: block;
+    }
 </style>
 <div class="home-hero-container">
     <div class="home-info-btn">
-        <button class="home-info-btn">
+        <button class="home-info-btn" aria-label="Info">
             <span class="material-symbols-outlined">
                 info
             </span>
         </button>
+        <div class="info-popup">
+            <p>Made with ❤️ by Daryl</p>
+            <br />
+            <p>https://daryldao.com</p>
+        </div>
     </div>
     <div class="home-content">
         <img src={wclogo} alt="World Cup Logo" width="250" />
