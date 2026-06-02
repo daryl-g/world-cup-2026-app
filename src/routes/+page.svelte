@@ -66,6 +66,7 @@
 
     .home-hero-btn button a {
         color: black;
+        font-family: 'Inter', sans-serif;
         text-decoration: none;
     }
 
