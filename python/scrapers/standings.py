@@ -1,6 +1,7 @@
 # Scrape results and standings from Wikipedia and update the JSON files
 
 # Imports
+import os
 import json
 import requests
 import pandas as pd
@@ -8,7 +9,9 @@ import pandas as pd
 from io import StringIO
 from loguru import logger
 from bs4 import BeautifulSoup
-from dotenv import dotenv_values
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # ----------------------------------------------------------
 
@@ -37,9 +40,7 @@ for group in groups_lookup["name"]:
 
     request = requests.get(
         f"https://en.wikipedia.org/api/rest_v1/page/html/2026_FIFA_World_Cup_{group.replace(' ', '_')}",
-        headers={
-            "User-Agent": f"World-Cup-2026-App/1.0 ({dotenv_values('../.env')['EMAIL']})"
-        },
+        headers={"User-Agent": f"World-Cup-2026-App/1.0 ({os.environ['EMAIL']})"},
     )
 
     soup = BeautifulSoup(request.text, "html.parser")
