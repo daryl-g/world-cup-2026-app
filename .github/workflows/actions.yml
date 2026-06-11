@@ -6,14 +6,13 @@ on:
   schedule:
     - cron: "0 8 * * *" # Every day at 08:00 UTC = 16:00 AEST
   workflow_dispatch: # Allows manual triggering of the workflow
-  push:
-    branches:
-      - main # Triggers on push to the main branch
 
 # Jobs specification
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allow the workflow to push changes to the repository
 
     # Steps to execute
     steps:
