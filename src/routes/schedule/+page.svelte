@@ -46,6 +46,7 @@
     .groups-grid {
         display: grid;
         grid-template-columns: repeat(4, 1fr);
+        justify-items: center;
         margin-top: 2.5rem;
         gap: 1rem;
         width: 100%;
@@ -61,8 +62,14 @@
 
         {#if activeTab === 'groups'}
             <div class="groups-grid">
-                {#each data.standings as group(group.id)}
-                    <GroupCard id={group.id} name={group.name} teams={group.teams} />
+                {#each data.groups as group}
+                    <GroupCard
+                        id={group.id}
+                        name={group.name}
+                        primaryColor={group.primaryColor}
+                        textColor={group.textColor}
+                        teams={group.teams}
+                    />
                 {/each}
             </div>
         {:else if activeTab === 'bracket'}

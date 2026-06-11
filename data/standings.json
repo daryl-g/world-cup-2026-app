@@ -15,7 +15,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Mexico",
+               "flag": "https://cdn.countryflags.com/thumbs/mexico/flag-round-250.png"
             },
             {
                "id": "o3l8m2n70n1j5q29",
@@ -28,7 +30,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "South Africa",
+               "flag": "https://cdn.countryflags.com/thumbs/south-africa/flag-round-250.png"
             },
             {
                "id": "c1z6a0b58b9x3e07",
@@ -41,7 +45,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "South Korea",
+               "flag": "https://cdn.countryflags.com/thumbs/south-korea/flag-round-250.png"
             },
             {
                "id": "q9n4t8o36p7l1s85",
@@ -54,7 +60,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Czechia",
+               "flag": "https://cdn.countryflags.com/thumbs/czech-republic/flag-round-250.png"
             }
          ]
       },
@@ -73,7 +81,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Canada",
+               "flag": "https://cdn.countryflags.com/thumbs/canada/flag-round-250.png"
             },
             {
                "id": "i1f6l0g58h9d3k07",
@@ -86,7 +96,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Bosnia",
+               "flag": "https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-round-250.png"
             },
             {
                "id": "k9h4i8j36j7f1m85",
@@ -99,7 +111,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Qatar",
+               "flag": "https://cdn.countryflags.com/thumbs/qatar/flag-round-250.png"
             },
             {
                "id": "r6o1p5q03q4m8t52",
@@ -112,7 +126,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Switzerland",
+               "flag": "https://cdn.countryflags.com/thumbs/switzerland/flag-round-250.png"
             }
          ]
       },
@@ -131,7 +147,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Brazil",
+               "flag": "https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png"
             },
             {
                "id": "d2a7b1c69c0y4f18",
@@ -144,7 +162,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Morocco",
+               "flag": "https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png"
             },
             {
                "id": "x6u1v5w03w4s8z52",
@@ -157,7 +177,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Haiti",
+               "flag": "https://cdn.countryflags.com/thumbs/haiti/flag-round-250.png"
             },
             {
                "id": "m1j6k0l58l9h3o07",
@@ -170,7 +192,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Scotland",
+               "flag": "https://cdn.countryflags.com/thumbs/scotland/flag-round-250.png"
             }
          ]
       },
@@ -189,7 +213,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "United States",
+               "flag": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png"
             },
             {
                "id": "i7f2g6h14h5d9k63",
@@ -202,7 +228,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Paraguay",
+               "flag": "https://cdn.countryflags.com/thumbs/paraguay/flag-round-250.png"
             },
             {
                "id": "f8c3i7d25e6a0h74",
@@ -215,7 +243,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Australia",
+               "flag": "https://cdn.countryflags.com/thumbs/australia/flag-round-250.png"
             },
             {
                "id": "t8q3r7s25s6o0v74",
@@ -228,7 +258,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Türkiye",
+               "flag": "https://cdn.countryflags.com/thumbs/turkey/flag-round-250.png"
             }
          ]
       },
@@ -247,7 +279,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Germany",
+               "flag": "https://cdn.countryflags.com/thumbs/germany/flag-round-250.png"
             },
             {
                "id": "p8m3s7n25o6k0r74",
@@ -260,7 +294,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Curaçao",
+               "flag": "https://cdn.countryflags.com/thumbs/curacao/flag-round-250.png"
             },
             {
                "id": "n6k1q5l03m4i8p52",
@@ -273,7 +309,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Ivory Coast",
+               "flag": "https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-round-250.png"
             },
             {
                "id": "r0o5u9p47q8m2t96",
@@ -286,7 +324,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Ecuador",
+               "flag": "https://cdn.countryflags.com/thumbs/ecuador/flag-round-250.png"
             }
          ]
       },
@@ -305,7 +345,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Netherlands",
+               "flag": "https://cdn.countryflags.com/thumbs/netherlands/flag-round-250.png"
             },
             {
                "id": "a9x4y8z36z7v1c85",
@@ -318,7 +360,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Japan",
+               "flag": "https://cdn.countryflags.com/thumbs/japan/flag-round-250.png"
             },
             {
                "id": "q5n0o4p92p3l7s41",
@@ -331,7 +375,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Sweden",
+               "flag": "https://cdn.countryflags.com/thumbs/sweden/flag-round-250.png"
             },
             {
                "id": "s7p2q6r14r5n9u63",
@@ -344,7 +390,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Tunisia",
+               "flag": "https://cdn.countryflags.com/thumbs/tunisia/flag-round-250.png"
             }
          ]
       },
@@ -363,7 +411,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Belgium",
+               "flag": "https://cdn.countryflags.com/thumbs/belgium/flag-round-250.png"
             },
             {
                "id": "s1p6v0q58r9n3u07",
@@ -376,7 +426,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Egypt",
+               "flag": "https://cdn.countryflags.com/thumbs/egypt/flag-round-250.png"
             },
             {
                "id": "y7v2w6x14x5t9a63",
@@ -389,7 +441,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Iran",
+               "flag": "https://cdn.countryflags.com/thumbs/iran/flag-round-250.png"
             },
             {
                "id": "f4c9d3e81e2a6h30",
@@ -402,7 +456,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "New Zealand",
+               "flag": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png"
             }
          ]
       },
@@ -421,7 +477,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Spain",
+               "flag": "https://cdn.countryflags.com/thumbs/spain/flag-round-250.png"
             },
             {
                "id": "k3h8n2i70j1f5m29",
@@ -434,7 +492,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Cabo Verde",
+               "flag": "https://cdn.countryflags.com/thumbs/cape-verde/flag-round-250.png"
             },
             {
                "id": "l0i5j9k47k8g2n96",
@@ -447,7 +507,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Saudi Arabia",
+               "flag": "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-round-250.png"
             },
             {
                "id": "u9r4s8t36t7p1w85",
@@ -460,7 +522,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Uruguay",
+               "flag": "https://cdn.countryflags.com/thumbs/uruguay/flag-round-250.png"
             }
          ]
       },
@@ -479,7 +543,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "France",
+               "flag": "https://cdn.countryflags.com/thumbs/france/flag-round-250.png"
             },
             {
                "id": "n2k7l1m69m0i4p18",
@@ -492,7 +558,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Senegal",
+               "flag": "https://cdn.countryflags.com/thumbs/senegal/flag-round-250.png"
             },
             {
                "id": "z8w3x7y25y6u0b74",
@@ -505,7 +573,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Iraq",
+               "flag": "https://cdn.countryflags.com/thumbs/iraq/flag-round-250.png"
             },
             {
                "id": "g5d0e4f92f3b7i41",
@@ -518,7 +588,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Norway",
+               "flag": "https://cdn.countryflags.com/thumbs/norway/flag-round-250.png"
             }
          ]
       },
@@ -537,7 +609,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Argentina",
+               "flag": "https://cdn.countryflags.com/thumbs/argentina/flag-round-250.png"
             },
             {
                "id": "e7a1h6c04f3d8b52",
@@ -550,7 +624,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Algeria",
+               "flag": "https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png"
             },
             {
                "id": "g9d4j8e36f7b1i85",
@@ -563,7 +639,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Austria",
+               "flag": "https://cdn.countryflags.com/thumbs/austria/flag-round-250.png"
             },
             {
                "id": "b0y5z9a47a8w2d96",
@@ -576,7 +654,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Jordan",
+               "flag": "https://cdn.countryflags.com/thumbs/jordan/flag-round-250.png"
             }
          ]
       },
@@ -595,7 +675,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Portugal",
+               "flag": "https://cdn.countryflags.com/thumbs/portugal/flag-round-250.png"
             },
             {
                "id": "m5j0p4k92l3h7o41",
@@ -608,7 +690,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Congo DR",
+               "flag": "https://cdn.countryflags.com/thumbs/congo-democratic-republic-of-the/flag-round-250.png"
             },
             {
                "id": "v0s5t9u47u8q2x96",
@@ -621,7 +705,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Uzbekistan",
+               "flag": "https://cdn.countryflags.com/thumbs/uzbekistan/flag-round-250.png"
             },
             {
                "id": "l4i9o3j81k2g6n30",
@@ -634,7 +720,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Colombia",
+               "flag": "https://cdn.countryflags.com/thumbs/colombia/flag-round-250.png"
             }
          ]
       },
@@ -653,7 +741,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "England",
+               "flag": "https://cdn.countryflags.com/thumbs/england/flag-round-250.png"
             },
             {
                "id": "o7l2r6m14n5j9q63",
@@ -666,7 +756,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Croatia",
+               "flag": "https://cdn.countryflags.com/thumbs/croatia/flag-round-250.png"
             },
             {
                "id": "w5t0z4u92v3r7y41",
@@ -679,7 +771,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Ghana",
+               "flag": "https://cdn.countryflags.com/thumbs/ghana/flag-round-250.png"
             },
             {
                "id": "h6e1f5g03g4c8j52",
@@ -692,7 +786,9 @@
                "goalsScored": 0,
                "goalsConceded": 0,
                "goalDiff": 0,
-               "points": 0
+               "points": 0,
+               "shortName": "Panama",
+               "flag": "https://cdn.countryflags.com/thumbs/panama/flag-round-250.png"
             }
          ]
       }
