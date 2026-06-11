@@ -36,7 +36,8 @@
         background: rgba(255, 255, 255, 0.3);
         color: black;
         border-radius: 10px;
-        width: 90%;
+        min-width: 85%;
+        max-width: 85%;
         height: fit-content;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
@@ -69,7 +70,7 @@
     }
 
     td {
-        padding: 0.5rem;
+        padding: 0.3rem;
         font-family: 'Inter', sans-serif;
         font-weight: 500;
         text-align: left;
@@ -81,24 +82,33 @@
         font-weight: bold;
     }
 
-    tr:nth-child(-n+2) td:first-child {
+    tbody tr:nth-child(-n+2) td:first-child {
         border-left: 3px solid #26DB4D;
     }
 
-    tr:nth-child(3) td:first-child {
+    tbody tr:nth-child(3) td:first-child {
         border-left: 3px solid #D9FF00;
     }
 </style>
 
 <div class="group-card">
     <div class="group-content">
-        <a class="group-detailed" href="/schedule/{id}">
+        <a class="group-detailed" href="/schedule/groups/{id}">
             <div class="group-header" style="background-color: {primaryColor}; color: {textColor};"> 
                 <p>{name}</p> 
             </div>
         </a>
         <div class="group-teams">
             <table>
+                <thead>
+                    <tr>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>Pld</td>
+                        <td>Pts</td>
+                    </tr>
+                </thead>
                 <tbody>
                     {#each teams as team(team.id)}
                         <tr>
