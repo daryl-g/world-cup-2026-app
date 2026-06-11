@@ -1,0 +1,52 @@
+{
+  "groups": [
+    {
+      "id": "7f2e9a4c1b5d8e3a",
+      "name": "Group A"
+    },
+    {
+      "id": "3c9f1b2d4e6a7f8b",
+      "name": "Group B"
+    },
+    {
+      "id": "5a6c7d8e9f0b1a2c",
+      "name": "Group C"
+    },
+    {
+      "id": "1d2e3f4a5b6c7d8e",
+      "name": "Group D"
+    },
+    {
+      "id": "9f0a1b2c3d4e5f6a",
+      "name": "Group E"
+    },
+    {
+      "id": "2b3c4d5e6f7a8b9c",
+      "name": "Group F"
+    },
+    {
+      "id": "8e9f0a1b2c3d4e5f",
+      "name": "Group G"
+    },
+    {
+      "id": "6a7b8c9d0e1f2a3b",
+      "name": "Group H"
+    },
+    {
+      "id": "4c5d6e7f8a9b0c1d",
+      "name": "Group I"
+    },
+    {
+      "id": "0f1a2b3c4d5e6f7a",
+      "name": "Group J"
+    },
+    {
+      "id": "7a8b9c0d1e2f3a4b",
+      "name": "Group K"
+    },
+    {
+      "id": "3d4e5f6a7b8c9d0e",
+      "name": "Group L"
+    }
+  ]
+}

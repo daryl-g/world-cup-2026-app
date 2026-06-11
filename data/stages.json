@@ -1,0 +1,46 @@
+{
+  "stages": [
+    {
+      "id": "a7f2b9e1c3d4k5m6",
+      "name": "Group Stage",
+      "startDate": "2026-06-11",
+      "endDate": "2026-06-27"
+    },
+    {
+      "id": "g8h9i0j1k2l3m4n5",
+      "name": "Round of 32",
+      "startDate": "2026-06-28",
+      "endDate": "2026-07-03"
+    },
+    {
+      "id": "p8q1r2s3t4u5v6w7",
+      "name": "Round of 16",
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-07"
+    },
+    {
+      "id": "x9y0z1a2b3c4d5e6",
+      "name": "Quarter-finals",
+      "startDate": "2026-07-09",
+      "endDate": "2026-07-11"
+    },
+    {
+      "id": "f7g8h9i0j1k2l3m4",
+      "name": "Semi-finals",
+      "startDate": "2026-07-14",
+      "endDate": "2026-07-15"
+    },
+    {
+      "id": "o5p6q7r8s9t0u1v2",
+      "name": "Third Place Playoff",
+      "startDate": "2026-07-18",
+      "endDate": "2026-07-18"
+    },
+    {
+      "id": "n5o6p7q8r9s0t1u2",
+      "name": "Final",
+      "startDate": "2026-07-19",
+      "endDate": "2026-07-19"
+    }
+  ]
+}

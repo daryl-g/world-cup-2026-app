@@ -16,6 +16,7 @@ Three pages:
   - Each match has a separate page that uses random generated uuid to display, can also be accessed from the schedule tab, use a slug like `/preview`
   - Show previous results (if there are any) + top goal scorers + xG recorded from previous matches
   - Show all players in squad (shirt no + position + full name + parent club) + overall stats so far (matches/minutes played, goals scored, assists)
+  - Tactical profile analyser: take self recorded tactics data from previous matches to visualise on a dashboard and make predictions. Can be reused to compare to the actual data at the end.
 - **Live match** (a page where I can take notes while watching matches):
   - Only show all matches that are happening on that day (also uses the same uuid, but different slug like `/live`)
   - Show a tactics board with preset formations
@@ -24,7 +25,8 @@ Three pages:
       - _Stretch goal_: Interactive tactics boards with moveable player dots and arrows and shits
     - Have preset positions and a dropdown box to choose players playing in that position (use data from already collected squads)
     - Each position can turn into a popup text box that uses Markdown for me to take notes
-  - Different sections and fields for me to record stats and shit from Fotmob/Opta
+  - Different sections and fields for me to record stats and shit from Fotmob/Opta.
+  - Small sections to rate tactical factors (3 in possession phases, 3 out of possession phases, 3 set piece scenarios).
 
 Storing data:
 

@@ -1,0 +1,484 @@
+{
+  "teams": [
+    {
+      "id": "a3f8c2d91b4e7f05",
+      "fullName": "Canada",
+      "shortName": "Canada",
+      "code": "CAN",
+      "primaryColor": "#D52B1E",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/canada/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/9.png"
+    },
+    {
+      "id": "c5f0e4g73d6b7h27",
+      "fullName": "Mexico",
+      "shortName": "Mexico",
+      "code": "MEX",
+      "primaryColor": "#27A550",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/mexico/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/28.png"
+    },
+    {
+      "id": "b4e9d3f82c5a6g16",
+      "fullName": "United States of America",
+      "shortName": "United States",
+      "code": "USA",
+      "primaryColor": "#0326DE",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/united-states-of-america/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/47.png"
+    },
+    {
+      "id": "e7a1h6c04f3d8b52",
+      "fullName": "Algeria",
+      "shortName": "Algeria",
+      "code": "ALG",
+      "primaryColor": "#00A067",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/algeria/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/1.png"
+    },
+    {
+      "id": "d6b2g5e13a4c9f38",
+      "fullName": "Argentina",
+      "shortName": "Argentina",
+      "code": "ARG",
+      "primaryColor": "#9CC9F2",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/argentina/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/2.png"
+    },
+    {
+      "id": "f8c3i7d25e6a0h74",
+      "fullName": "Australia",
+      "shortName": "Australia",
+      "code": "AUS",
+      "primaryColor": "#FFC100",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/australia/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/3.png"
+    },
+    {
+      "id": "g9d4j8e36f7b1i85",
+      "fullName": "Austria",
+      "shortName": "Austria",
+      "code": "AUT",
+      "primaryColor": "#ED3D32",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/austria/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/4.png"
+    },
+    {
+      "id": "h0e5k9f47g8c2j96",
+      "fullName": "Belgium",
+      "shortName": "Belgium",
+      "code": "BEL",
+      "primaryColor": "#880029",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/belgium/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/5.png"
+    },
+    {
+      "id": "i1f6l0g58h9d3k07",
+      "fullName": "Bosnia and Herzegovina",
+      "shortName": "Bosnia",
+      "code": "BIH",
+      "primaryColor": "#2739D7",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/bosnia-and-herzegovina/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/6.png"
+    },
+    {
+      "id": "j2g7m1h69i0e4l18",
+      "fullName": "Brazil",
+      "shortName": "Brazil",
+      "code": "BRA",
+      "primaryColor": "#FFCF25",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/brazil/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/7.png"
+    },
+    {
+      "id": "k3h8n2i70j1f5m29",
+      "fullName": "Cabo Verde",
+      "shortName": "Cabo Verde",
+      "code": "CPV",
+      "primaryColor": "#222E77",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/cape-verde/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/8.png"
+    },
+    {
+      "id": "l4i9o3j81k2g6n30",
+      "fullName": "Colombia",
+      "shortName": "Colombia",
+      "code": "COL",
+      "primaryColor": "#FFD600",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/colombia/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/10.png"
+    },
+    {
+      "id": "m5j0p4k92l3h7o41",
+      "fullName": "Congo DR",
+      "shortName": "Congo DR",
+      "code": "COD",
+      "primaryColor": "#007FFF",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/congo-democratic-republic-of-the/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/11.png"
+    },
+    {
+      "id": "n6k1q5l03m4i8p52",
+      "fullName": "Côte d'Ivoire",
+      "shortName": "Ivory Coast",
+      "code": "CIV",
+      "primaryColor": "#FF8A00",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/cote-d-ivoire/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/12.png"
+    },
+    {
+      "id": "o7l2r6m14n5j9q63",
+      "fullName": "Croatia",
+      "shortName": "Croatia",
+      "code": "CRO",
+      "primaryColor": "#F30A0A",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/croatia/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/13.png"
+    },
+    {
+      "id": "p8m3s7n25o6k0r74",
+      "fullName": "Curaçao",
+      "shortName": "Curaçao",
+      "code": "CUW",
+      "primaryColor": "#236CDA",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/curacao/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/14.png"
+    },
+    {
+      "id": "q9n4t8o36p7l1s85",
+      "fullName": "Czech Republic",
+      "shortName": "Czechia",
+      "code": "CZE",
+      "primaryColor": "#FF2727",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/czech-republic/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/15.png"
+    },
+    {
+      "id": "r0o5u9p47q8m2t96",
+      "fullName": "Ecuador",
+      "shortName": "Ecuador",
+      "code": "ECU",
+      "primaryColor": "#FFD600",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/ecuador/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/16.png"
+    },
+    {
+      "id": "s1p6v0q58r9n3u07",
+      "fullName": "Egypt",
+      "shortName": "Egypt",
+      "code": "EGY",
+      "primaryColor": "#F1051F",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/egypt/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/17.png"
+    },
+    {
+      "id": "t2q7w1r69s0o4v18",
+      "fullName": "England",
+      "shortName": "England",
+      "code": "ENG",
+      "primaryColor": "#FFFFFF",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/england/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/18.png"
+    },
+    {
+      "id": "u3r8x2s70t1p5w29",
+      "fullName": "France",
+      "shortName": "France",
+      "code": "FRA",
+      "primaryColor": "#00418F",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/france/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/19.png"
+    },
+    {
+      "id": "v4s9y3t81u2q6x30",
+      "fullName": "Germany",
+      "shortName": "Germany",
+      "code": "GER",
+      "primaryColor": "#1F1F1F",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/germany/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/20.png"
+    },
+    {
+      "id": "w5t0z4u92v3r7y41",
+      "fullName": "Ghana",
+      "shortName": "Ghana",
+      "code": "GHA",
+      "primaryColor": "#FFC100",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/ghana/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/21.png"
+    },
+    {
+      "id": "x6u1v5w03w4s8z52",
+      "fullName": "Haiti",
+      "shortName": "Haiti",
+      "code": "HAI",
+      "primaryColor": "#0013BA",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/haiti/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/22.png"
+    },
+    {
+      "id": "y7v2w6x14x5t9a63",
+      "fullName": "IR Iran",
+      "shortName": "Iran",
+      "code": "IRN",
+      "primaryColor": "#DF1818",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/iran/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/23.png"
+    },
+    {
+      "id": "z8w3x7y25y6u0b74",
+      "fullName": "Iraq",
+      "shortName": "Iraq",
+      "code": "IRQ",
+      "primaryColor": "#0D7053",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/iraq/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/24.png"
+    },
+    {
+      "id": "a9x4y8z36z7v1c85",
+      "fullName": "Japan",
+      "shortName": "Japan",
+      "code": "JPN",
+      "primaryColor": "#2830E7",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/japan/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/25.png"
+    },
+    {
+      "id": "b0y5z9a47a8w2d96",
+      "fullName": "Jordan",
+      "shortName": "Jordan",
+      "code": "JOR",
+      "primaryColor": "#FF1A1A",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/jordan/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/26.png"
+    },
+    {
+      "id": "c1z6a0b58b9x3e07",
+      "fullName": "Korea Republic",
+      "shortName": "South Korea",
+      "code": "KOR",
+      "primaryColor": "#FF253A",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/south-korea/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/27.png"
+    },
+    {
+      "id": "d2a7b1c69c0y4f18",
+      "fullName": "Morocco",
+      "shortName": "Morocco",
+      "code": "MAR",
+      "primaryColor": "#C1272D",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/morocco/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/29.png"
+    },
+    {
+      "id": "e3b8c2d70d1z5g29",
+      "fullName": "Netherlands",
+      "shortName": "Netherlands",
+      "code": "NED",
+      "primaryColor": "#FF7A00",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/netherlands/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/30.png"
+    },
+    {
+      "id": "f4c9d3e81e2a6h30",
+      "fullName": "New Zealand",
+      "shortName": "New Zealand",
+      "code": "NZL",
+      "primaryColor": "#000000",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/new-zealand/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/31.png"
+    },
+    {
+      "id": "g5d0e4f92f3b7i41",
+      "fullName": "Norway",
+      "shortName": "Norway",
+      "code": "NOR",
+      "primaryColor": "#C70000",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/norway/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/32.png"
+    },
+    {
+      "id": "h6e1f5g03g4c8j52",
+      "fullName": "Panama",
+      "shortName": "Panama",
+      "code": "PAN",
+      "primaryColor": "#E41027",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/panama/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/33.png"
+    },
+    {
+      "id": "i7f2g6h14h5d9k63",
+      "fullName": "Paraguay",
+      "shortName": "Paraguay",
+      "code": "PAR",
+      "primaryColor": "#DE0000",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/paraguay/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/34.png"
+    },
+    {
+      "id": "j8g3h7i25i6e0l74",
+      "fullName": "Portugal",
+      "shortName": "Portugal",
+      "code": "POR",
+      "primaryColor": "#FF0000",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/portugal/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/35.png"
+    },
+    {
+      "id": "k9h4i8j36j7f1m85",
+      "fullName": "Qatar",
+      "shortName": "Qatar",
+      "code": "QAT",
+      "primaryColor": "#8D1B3D",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/qatar/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/36.png"
+    },
+    {
+      "id": "l0i5j9k47k8g2n96",
+      "fullName": "Saudi Arabia",
+      "shortName": "Saudi Arabia",
+      "code": "KSA",
+      "primaryColor": "#27A550",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/saudi-arabia/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/37.png"
+    },
+    {
+      "id": "m1j6k0l58l9h3o07",
+      "fullName": "Scotland",
+      "shortName": "Scotland",
+      "code": "SCO",
+      "primaryColor": "#1E1C71",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/scotland/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/38.png"
+    },
+    {
+      "id": "n2k7l1m69m0i4p18",
+      "fullName": "Senegal",
+      "shortName": "Senegal",
+      "code": "SEN",
+      "primaryColor": "#FFDA17",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/senegal/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/39.png"
+    },
+    {
+      "id": "o3l8m2n70n1j5q29",
+      "fullName": "South Africa",
+      "shortName": "South Africa",
+      "code": "RSA",
+      "primaryColor": "#FFD600",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/south-africa/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/40.png"
+    },
+    {
+      "id": "p4m9n3o81o2k6r30",
+      "fullName": "Spain",
+      "shortName": "Spain",
+      "code": "ESP",
+      "primaryColor": "#FF0000",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/spain/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/41.png"
+    },
+    {
+      "id": "q5n0o4p92p3l7s41",
+      "fullName": "Sweden",
+      "shortName": "Sweden",
+      "code": "SWE",
+      "primaryColor": "#377E3F",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/sweden/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/42.png"
+    },
+    {
+      "id": "r6o1p5q03q4m8t52",
+      "fullName": "Switzerland",
+      "shortName": "Switzerland",
+      "code": "SUI",
+      "primaryColor": "#E20000",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/switzerland/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/43.png"
+    },
+    {
+      "id": "s7p2q6r14r5n9u63",
+      "fullName": "Tunisia",
+      "shortName": "Tunisia",
+      "code": "TUN",
+      "primaryColor": "#E91426",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/tunisia/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/44.png"
+    },
+    {
+      "id": "t8q3r7s25s6o0v74",
+      "fullName": "Türkiye",
+      "shortName": "Türkiye",
+      "code": "TUR",
+      "primaryColor": "#FFFFFF",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/turkey/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/45.png"
+    },
+    {
+      "id": "u9r4s8t36t7p1w85",
+      "fullName": "Uruguay",
+      "shortName": "Uruguay",
+      "code": "URU",
+      "primaryColor": "#7EC1FF",
+      "textColor": "#000000",
+      "flag": "https://cdn.countryflags.com/thumbs/uruguay/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/46.png"
+    },
+    {
+      "id": "v0s5t9u47u8q2x96",
+      "fullName": "Uzbekistan",
+      "shortName": "Uzbekistan",
+      "code": "UZB",
+      "primaryColor": "#112BB3",
+      "textColor": "#FFFFFF",
+      "flag": "https://cdn.countryflags.com/thumbs/uzbekistan/flag-round-250.png",
+      "shirt": "https://play.fifa.com/media/image/fantasy/squads/48.png"
+    }
+  ]
+}

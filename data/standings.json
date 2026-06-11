@@ -1,0 +1,700 @@
+{
+   "standings": [
+      {
+         "id": "7f2e9a4c1b5d8e3a",
+         "name": "Group A",
+         "teams": [
+            {
+               "id": "c5f0e4g73d6b7h27",
+               "position": 1,
+               "teamName": "Mexico",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "o3l8m2n70n1j5q29",
+               "position": 2,
+               "teamName": "South Africa",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "c1z6a0b58b9x3e07",
+               "position": 3,
+               "teamName": "South Korea",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "q9n4t8o36p7l1s85",
+               "position": 4,
+               "teamName": "Czech Republic",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "3c9f1b2d4e6a7f8b",
+         "name": "Group B",
+         "teams": [
+            {
+               "id": "a3f8c2d91b4e7f05",
+               "position": 1,
+               "teamName": "Canada",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "i1f6l0g58h9d3k07",
+               "position": 2,
+               "teamName": "Bosnia and Herzegovina",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "k9h4i8j36j7f1m85",
+               "position": 3,
+               "teamName": "Qatar",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "r6o1p5q03q4m8t52",
+               "position": 4,
+               "teamName": "Switzerland",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "5a6c7d8e9f0b1a2c",
+         "name": "Group C",
+         "teams": [
+            {
+               "id": "j2g7m1h69i0e4l18",
+               "position": 1,
+               "teamName": "Brazil",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "d2a7b1c69c0y4f18",
+               "position": 2,
+               "teamName": "Morocco",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "x6u1v5w03w4s8z52",
+               "position": 3,
+               "teamName": "Haiti",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "m1j6k0l58l9h3o07",
+               "position": 4,
+               "teamName": "Scotland",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "1d2e3f4a5b6c7d8e",
+         "name": "Group D",
+         "teams": [
+            {
+               "id": "b4e9d3f82c5a6g16",
+               "position": 1,
+               "teamName": "United States",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "i7f2g6h14h5d9k63",
+               "position": 2,
+               "teamName": "Paraguay",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "f8c3i7d25e6a0h74",
+               "position": 3,
+               "teamName": "Australia",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "t8q3r7s25s6o0v74",
+               "position": 4,
+               "teamName": "Turkey",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "9f0a1b2c3d4e5f6a",
+         "name": "Group E",
+         "teams": [
+            {
+               "id": "v4s9y3t81u2q6x30",
+               "position": 1,
+               "teamName": "Germany",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "p8m3s7n25o6k0r74",
+               "position": 2,
+               "teamName": "Curaçao",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "n6k1q5l03m4i8p52",
+               "position": 3,
+               "teamName": "Ivory Coast",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "r0o5u9p47q8m2t96",
+               "position": 4,
+               "teamName": "Ecuador",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "2b3c4d5e6f7a8b9c",
+         "name": "Group F",
+         "teams": [
+            {
+               "id": "e3b8c2d70d1z5g29",
+               "position": 1,
+               "teamName": "Netherlands",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "a9x4y8z36z7v1c85",
+               "position": 2,
+               "teamName": "Japan",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "q5n0o4p92p3l7s41",
+               "position": 3,
+               "teamName": "Sweden",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "s7p2q6r14r5n9u63",
+               "position": 4,
+               "teamName": "Tunisia",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "8e9f0a1b2c3d4e5f",
+         "name": "Group G",
+         "teams": [
+            {
+               "id": "h0e5k9f47g8c2j96",
+               "position": 1,
+               "teamName": "Belgium",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "s1p6v0q58r9n3u07",
+               "position": 2,
+               "teamName": "Egypt",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "y7v2w6x14x5t9a63",
+               "position": 3,
+               "teamName": "Iran",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "f4c9d3e81e2a6h30",
+               "position": 4,
+               "teamName": "New Zealand",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "6a7b8c9d0e1f2a3b",
+         "name": "Group H",
+         "teams": [
+            {
+               "id": "p4m9n3o81o2k6r30",
+               "position": 1,
+               "teamName": "Spain",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "k3h8n2i70j1f5m29",
+               "position": 2,
+               "teamName": "Cape Verde",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "l0i5j9k47k8g2n96",
+               "position": 3,
+               "teamName": "Saudi Arabia",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "u9r4s8t36t7p1w85",
+               "position": 4,
+               "teamName": "Uruguay",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "4c5d6e7f8a9b0c1d",
+         "name": "Group I",
+         "teams": [
+            {
+               "id": "u3r8x2s70t1p5w29",
+               "position": 1,
+               "teamName": "France",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "n2k7l1m69m0i4p18",
+               "position": 2,
+               "teamName": "Senegal",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "z8w3x7y25y6u0b74",
+               "position": 3,
+               "teamName": "Iraq",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "g5d0e4f92f3b7i41",
+               "position": 4,
+               "teamName": "Norway",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "0f1a2b3c4d5e6f7a",
+         "name": "Group J",
+         "teams": [
+            {
+               "id": "d6b2g5e13a4c9f38",
+               "position": 1,
+               "teamName": "Argentina",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "e7a1h6c04f3d8b52",
+               "position": 2,
+               "teamName": "Algeria",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "g9d4j8e36f7b1i85",
+               "position": 3,
+               "teamName": "Austria",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "b0y5z9a47a8w2d96",
+               "position": 4,
+               "teamName": "Jordan",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "7a8b9c0d1e2f3a4b",
+         "name": "Group K",
+         "teams": [
+            {
+               "id": "j8g3h7i25i6e0l74",
+               "position": 1,
+               "teamName": "Portugal",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "m5j0p4k92l3h7o41",
+               "position": 2,
+               "teamName": "DR Congo",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "v0s5t9u47u8q2x96",
+               "position": 3,
+               "teamName": "Uzbekistan",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "l4i9o3j81k2g6n30",
+               "position": 4,
+               "teamName": "Colombia",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      },
+      {
+         "id": "3d4e5f6a7b8c9d0e",
+         "name": "Group L",
+         "teams": [
+            {
+               "id": "t2q7w1r69s0o4v18",
+               "position": 1,
+               "teamName": "England",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "o7l2r6m14n5j9q63",
+               "position": 2,
+               "teamName": "Croatia",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "w5t0z4u92v3r7y41",
+               "position": 3,
+               "teamName": "Ghana",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            },
+            {
+               "id": "h6e1f5g03g4c8j52",
+               "position": 4,
+               "teamName": "Panama",
+               "played": 0,
+               "wins": 0,
+               "draws": 0,
+               "losses": 0,
+               "goalsScored": 0,
+               "goalsConceded": 0,
+               "goalDiff": 0,
+               "points": 0
+            }
+         ]
+      }
+   ]
+}
