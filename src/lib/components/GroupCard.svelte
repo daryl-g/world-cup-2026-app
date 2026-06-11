@@ -12,6 +12,8 @@
         goalsConceded: number;
         goalDiff: number;
         points: number;
+        shortName: string;
+        flag: string;
     };
 
     let {
@@ -58,7 +60,7 @@
     }
 
     .group-teams {
-        padding: 0 0.3rem;
+        padding: 0 0.3rem 0 0rem;
     }
 
     table {
@@ -68,8 +70,23 @@
 
     td {
         padding: 0.5rem;
+        font-family: 'Inter', sans-serif;
+        font-weight: 500;
         text-align: left;
         border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+        vertical-align: middle;
+    }
+
+    td:first-child {
+        font-weight: bold;
+    }
+
+    tr:nth-child(-n+2) td:first-child {
+        border-left: 3px solid #26DB4D;
+    }
+
+    tr:nth-child(3) td:first-child {
+        border-left: 3px solid #D9FF00;
     }
 </style>
 
@@ -86,7 +103,8 @@
                     {#each teams as team(team.id)}
                         <tr>
                             <td>{team.position}</td>
-                            <td>{team.teamName}</td>
+                            <td><img src={team.flag} alt="{team.shortName} flag" width="25" /></td>
+                            <td>{team.shortName}</td>
                             <td>{team.played}</td>
                             <td>{team.points}</td>
                         </tr>

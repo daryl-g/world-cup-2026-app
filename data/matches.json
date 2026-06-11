@@ -1,0 +1,4756 @@
+{
+   "matches": [
+      {
+         "matchInfo": {
+            "id": "d3db8ff41dfa4b04",
+            "description": "Mexico vs South Africa",
+            "localStartDate": "2026-06-11",
+            "localStartTime": "13:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7f2e9a4c1b5d8e3a",
+                  "name": "Group A"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "c5f0e4g73d6b7h27",
+                  "name": "Mexico",
+                  "position": "home"
+               },
+               {
+                  "id": "o3l8m2n70n1j5q29",
+                  "name": "South Africa",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio Azteca, Mexico City"
+         },
+         "matchData": {
+            "matchStatus": "Played",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 2,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "849ef199fd904493",
+            "description": "South Korea vs Czech Republic",
+            "localStartDate": "2026-06-11",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7f2e9a4c1b5d8e3a",
+                  "name": "Group A"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "c1z6a0b58b9x3e07",
+                  "name": "South Korea",
+                  "position": "home"
+               },
+               {
+                  "id": "q9n4t8o36p7l1s85",
+                  "name": "Czech Republic",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio Akron, Zapopan"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "6f356075fb4a4cf6",
+            "description": "Czech Republic vs South Africa",
+            "localStartDate": "2026-06-18",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7f2e9a4c1b5d8e3a",
+                  "name": "Group A"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "q9n4t8o36p7l1s85",
+                  "name": "Czech Republic",
+                  "position": "home"
+               },
+               {
+                  "id": "o3l8m2n70n1j5q29",
+                  "name": "South Africa",
+                  "position": "away"
+               }
+            ],
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "4a1ffc146a3f4700",
+            "description": "Mexico vs South Korea",
+            "localStartDate": "2026-06-18",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7f2e9a4c1b5d8e3a",
+                  "name": "Group A"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "c5f0e4g73d6b7h27",
+                  "name": "Mexico",
+                  "position": "home"
+               },
+               {
+                  "id": "c1z6a0b58b9x3e07",
+                  "name": "South Korea",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio Akron, Zapopan"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "9023164c6dd3415e",
+            "description": "Czech Republic vs Mexico",
+            "localStartDate": "2026-06-24",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7f2e9a4c1b5d8e3a",
+                  "name": "Group A"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "q9n4t8o36p7l1s85",
+                  "name": "Czech Republic",
+                  "position": "home"
+               },
+               {
+                  "id": "c5f0e4g73d6b7h27",
+                  "name": "Mexico",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio Azteca, Mexico City"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "f2d57c03e76c479e",
+            "description": "South Africa vs South Korea",
+            "localStartDate": "2026-06-24",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7f2e9a4c1b5d8e3a",
+                  "name": "Group A"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "o3l8m2n70n1j5q29",
+                  "name": "South Africa",
+                  "position": "home"
+               },
+               {
+                  "id": "c1z6a0b58b9x3e07",
+                  "name": "South Korea",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio BBVA, Guadalupe"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "d559c6d69b1a44c4",
+            "description": "Canada vs Bosnia and Herzegovina",
+            "localStartDate": "2026-06-12",
+            "localStartTime": "15:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3c9f1b2d4e6a7f8b",
+                  "name": "Group B"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "a3f8c2d91b4e7f05",
+                  "name": "Canada",
+                  "position": "home"
+               },
+               {
+                  "id": "i1f6l0g58h9d3k07",
+                  "name": "Bosnia and Herzegovina",
+                  "position": "away"
+               }
+            ],
+            "venue": "BMO Field, Toronto"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "25b5d39bc8c146da",
+            "description": "Qatar vs Switzerland",
+            "localStartDate": "2026-06-13",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3c9f1b2d4e6a7f8b",
+                  "name": "Group B"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "k9h4i8j36j7f1m85",
+                  "name": "Qatar",
+                  "position": "home"
+               },
+               {
+                  "id": "r6o1p5q03q4m8t52",
+                  "name": "Switzerland",
+                  "position": "away"
+               }
+            ],
+            "venue": "Levi's Stadium, Santa Clara"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "2c2ceba6f01e48ac",
+            "description": "Switzerland vs Bosnia and Herzegovina",
+            "localStartDate": "2026-06-18",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3c9f1b2d4e6a7f8b",
+                  "name": "Group B"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "r6o1p5q03q4m8t52",
+                  "name": "Switzerland",
+                  "position": "home"
+               },
+               {
+                  "id": "i1f6l0g58h9d3k07",
+                  "name": "Bosnia and Herzegovina",
+                  "position": "away"
+               }
+            ],
+            "venue": "SoFi Stadium, Inglewood"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "9dc9811e187c4804",
+            "description": "Canada vs Qatar",
+            "localStartDate": "2026-06-18",
+            "localStartTime": "15:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3c9f1b2d4e6a7f8b",
+                  "name": "Group B"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "a3f8c2d91b4e7f05",
+                  "name": "Canada",
+                  "position": "home"
+               },
+               {
+                  "id": "k9h4i8j36j7f1m85",
+                  "name": "Qatar",
+                  "position": "away"
+               }
+            ],
+            "venue": "BC Place, Vancouver"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "3b4b540b09c44ee4",
+            "description": "Switzerland vs Canada",
+            "localStartDate": "2026-06-24",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3c9f1b2d4e6a7f8b",
+                  "name": "Group B"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "r6o1p5q03q4m8t52",
+                  "name": "Switzerland",
+                  "position": "home"
+               },
+               {
+                  "id": "a3f8c2d91b4e7f05",
+                  "name": "Canada",
+                  "position": "away"
+               }
+            ],
+            "venue": "BC Place, Vancouver"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "c120043427a64f8b",
+            "description": "Bosnia and Herzegovina vs Qatar",
+            "localStartDate": "2026-06-24",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3c9f1b2d4e6a7f8b",
+                  "name": "Group B"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "i1f6l0g58h9d3k07",
+                  "name": "Bosnia and Herzegovina",
+                  "position": "home"
+               },
+               {
+                  "id": "k9h4i8j36j7f1m85",
+                  "name": "Qatar",
+                  "position": "away"
+               }
+            ],
+            "venue": "Lumen Field, Seattle"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "362527ed0e73464b",
+            "description": "Brazil vs Morocco",
+            "localStartDate": "2026-06-13",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "5a6c7d8e9f0b1a2c",
+                  "name": "Group C"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "j2g7m1h69i0e4l18",
+                  "name": "Brazil",
+                  "position": "home"
+               },
+               {
+                  "id": "d2a7b1c69c0y4f18",
+                  "name": "Morocco",
+                  "position": "away"
+               }
+            ],
+            "venue": "MetLife Stadium, East Rutherford"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "d5b5a9de9a4b4ccc",
+            "description": "Haiti vs Scotland",
+            "localStartDate": "2026-06-13",
+            "localStartTime": "21:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "5a6c7d8e9f0b1a2c",
+                  "name": "Group C"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "x6u1v5w03w4s8z52",
+                  "name": "Haiti",
+                  "position": "home"
+               },
+               {
+                  "id": "m1j6k0l58l9h3o07",
+                  "name": "Scotland",
+                  "position": "away"
+               }
+            ],
+            "venue": "Gillette Stadium, Foxborough"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "7e6d8d36f4bd49a9",
+            "description": "Scotland vs Morocco",
+            "localStartDate": "2026-06-19",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "5a6c7d8e9f0b1a2c",
+                  "name": "Group C"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "m1j6k0l58l9h3o07",
+                  "name": "Scotland",
+                  "position": "home"
+               },
+               {
+                  "id": "d2a7b1c69c0y4f18",
+                  "name": "Morocco",
+                  "position": "away"
+               }
+            ],
+            "venue": "Gillette Stadium, Foxborough"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "34c21ce7f0c54c40",
+            "description": "Brazil vs Haiti",
+            "localStartDate": "2026-06-19",
+            "localStartTime": "20:30",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "5a6c7d8e9f0b1a2c",
+                  "name": "Group C"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "j2g7m1h69i0e4l18",
+                  "name": "Brazil",
+                  "position": "home"
+               },
+               {
+                  "id": "x6u1v5w03w4s8z52",
+                  "name": "Haiti",
+                  "position": "away"
+               }
+            ],
+            "venue": "Lincoln Financial Field, Philadelphia"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "99b0fc64c53347d9",
+            "description": "Scotland vs Brazil",
+            "localStartDate": "2026-06-24",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "5a6c7d8e9f0b1a2c",
+                  "name": "Group C"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "m1j6k0l58l9h3o07",
+                  "name": "Scotland",
+                  "position": "home"
+               },
+               {
+                  "id": "j2g7m1h69i0e4l18",
+                  "name": "Brazil",
+                  "position": "away"
+               }
+            ],
+            "venue": "Hard Rock Stadium, Miami Gardens"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "4722b13acf804fc7",
+            "description": "Morocco vs Haiti",
+            "localStartDate": "2026-06-24",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "5a6c7d8e9f0b1a2c",
+                  "name": "Group C"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "d2a7b1c69c0y4f18",
+                  "name": "Morocco",
+                  "position": "home"
+               },
+               {
+                  "id": "x6u1v5w03w4s8z52",
+                  "name": "Haiti",
+                  "position": "away"
+               }
+            ],
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "a71822ac64324a41",
+            "description": "United States vs Paraguay",
+            "localStartDate": "2026-06-12",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "1d2e3f4a5b6c7d8e",
+                  "name": "Group D"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "b4e9d3f82c5a6g16",
+                  "name": "United States",
+                  "position": "home"
+               },
+               {
+                  "id": "i7f2g6h14h5d9k63",
+                  "name": "Paraguay",
+                  "position": "away"
+               }
+            ],
+            "venue": "SoFi Stadium, Inglewood"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "5c5a1688da7e4b6c",
+            "description": "Australia vs Turkey",
+            "localStartDate": "2026-06-13",
+            "localStartTime": "21:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "1d2e3f4a5b6c7d8e",
+                  "name": "Group D"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "f8c3i7d25e6a0h74",
+                  "name": "Australia",
+                  "position": "home"
+               },
+               {
+                  "id": "t8q3r7s25s6o0v74",
+                  "name": "Turkey",
+                  "position": "away"
+               }
+            ],
+            "venue": "BC Place, Vancouver"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "f38cd74165fb4013",
+            "description": "United States vs Australia",
+            "localStartDate": "2026-06-19",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "1d2e3f4a5b6c7d8e",
+                  "name": "Group D"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "b4e9d3f82c5a6g16",
+                  "name": "United States",
+                  "position": "home"
+               },
+               {
+                  "id": "f8c3i7d25e6a0h74",
+                  "name": "Australia",
+                  "position": "away"
+               }
+            ],
+            "venue": "Lumen Field, Seattle"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "d75a7ef725264124",
+            "description": "Turkey vs Paraguay",
+            "localStartDate": "2026-06-19",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "1d2e3f4a5b6c7d8e",
+                  "name": "Group D"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "t8q3r7s25s6o0v74",
+                  "name": "Turkey",
+                  "position": "home"
+               },
+               {
+                  "id": "i7f2g6h14h5d9k63",
+                  "name": "Paraguay",
+                  "position": "away"
+               }
+            ],
+            "venue": "Levi's Stadium, Santa Clara"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "7682c3ce88fb4c88",
+            "description": "Turkey vs United States",
+            "localStartDate": "2026-06-25",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "1d2e3f4a5b6c7d8e",
+                  "name": "Group D"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "t8q3r7s25s6o0v74",
+                  "name": "Turkey",
+                  "position": "home"
+               },
+               {
+                  "id": null,
+                  "name": "United States",
+                  "position": "away"
+               }
+            ],
+            "venue": "SoFi Stadium, Inglewood"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "21b61d71d0334e37",
+            "description": "Paraguay vs Australia",
+            "localStartDate": "2026-06-25",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "1d2e3f4a5b6c7d8e",
+                  "name": "Group D"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "i7f2g6h14h5d9k63",
+                  "name": "Paraguay",
+                  "position": "home"
+               },
+               {
+                  "id": "f8c3i7d25e6a0h74",
+                  "name": "Australia",
+                  "position": "away"
+               }
+            ],
+            "venue": "Levi's Stadium, Santa Clara"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "46cea1205d12466a",
+            "description": "Germany vs Curaçao",
+            "localStartDate": "2026-06-14",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "9f0a1b2c3d4e5f6a",
+                  "name": "Group E"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "v4s9y3t81u2q6x30",
+                  "name": "Germany",
+                  "position": "home"
+               },
+               {
+                  "id": "p8m3s7n25o6k0r74",
+                  "name": "Curaçao",
+                  "position": "away"
+               }
+            ],
+            "venue": "NRG Stadium, Houston"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "5d170a06f3764eef",
+            "description": "Ivory Coast vs Ecuador",
+            "localStartDate": "2026-06-14",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "9f0a1b2c3d4e5f6a",
+                  "name": "Group E"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "n6k1q5l03m4i8p52",
+                  "name": "Ivory Coast",
+                  "position": "home"
+               },
+               {
+                  "id": "r0o5u9p47q8m2t96",
+                  "name": "Ecuador",
+                  "position": "away"
+               }
+            ],
+            "venue": "Lincoln Financial Field, Philadelphia"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "bceb4726731847aa",
+            "description": "Germany vs Ivory Coast",
+            "localStartDate": "2026-06-20",
+            "localStartTime": "16:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "9f0a1b2c3d4e5f6a",
+                  "name": "Group E"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "v4s9y3t81u2q6x30",
+                  "name": "Germany",
+                  "position": "home"
+               },
+               {
+                  "id": "n6k1q5l03m4i8p52",
+                  "name": "Ivory Coast",
+                  "position": "away"
+               }
+            ],
+            "venue": "BMO Field, Toronto"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "a3cd6e47e2c94a27",
+            "description": "Ecuador vs Curaçao",
+            "localStartDate": "2026-06-20",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "9f0a1b2c3d4e5f6a",
+                  "name": "Group E"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "r0o5u9p47q8m2t96",
+                  "name": "Ecuador",
+                  "position": "home"
+               },
+               {
+                  "id": "p8m3s7n25o6k0r74",
+                  "name": "Curaçao",
+                  "position": "away"
+               }
+            ],
+            "venue": "Arrowhead Stadium, Kansas City"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "b90a9ef00c764c62",
+            "description": "Curaçao vs Ivory Coast",
+            "localStartDate": "2026-06-25",
+            "localStartTime": "16:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "9f0a1b2c3d4e5f6a",
+                  "name": "Group E"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "p8m3s7n25o6k0r74",
+                  "name": "Curaçao",
+                  "position": "home"
+               },
+               {
+                  "id": "n6k1q5l03m4i8p52",
+                  "name": "Ivory Coast",
+                  "position": "away"
+               }
+            ],
+            "venue": "Lincoln Financial Field, Philadelphia"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "a1b4e618fe2c40ca",
+            "description": "Ecuador vs Germany",
+            "localStartDate": "2026-06-25",
+            "localStartTime": "16:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "9f0a1b2c3d4e5f6a",
+                  "name": "Group E"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "r0o5u9p47q8m2t96",
+                  "name": "Ecuador",
+                  "position": "home"
+               },
+               {
+                  "id": "v4s9y3t81u2q6x30",
+                  "name": "Germany",
+                  "position": "away"
+               }
+            ],
+            "venue": "MetLife Stadium, East Rutherford"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "35ff0f4d411e4274",
+            "description": "Netherlands vs Japan",
+            "localStartDate": "2026-06-14",
+            "localStartTime": "15:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "2b3c4d5e6f7a8b9c",
+                  "name": "Group F"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "e3b8c2d70d1z5g29",
+                  "name": "Netherlands",
+                  "position": "home"
+               },
+               {
+                  "id": "a9x4y8z36z7v1c85",
+                  "name": "Japan",
+                  "position": "away"
+               }
+            ],
+            "venue": "AT&T Stadium, Arlington"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "f66c7b179ed042b5",
+            "description": "Sweden vs Tunisia",
+            "localStartDate": "2026-06-14",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "2b3c4d5e6f7a8b9c",
+                  "name": "Group F"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "q5n0o4p92p3l7s41",
+                  "name": "Sweden",
+                  "position": "home"
+               },
+               {
+                  "id": "s7p2q6r14r5n9u63",
+                  "name": "Tunisia",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio BBVA, Guadalupe"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "12c075188a2348d5",
+            "description": "Netherlands vs Sweden",
+            "localStartDate": "2026-06-20",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "2b3c4d5e6f7a8b9c",
+                  "name": "Group F"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "e3b8c2d70d1z5g29",
+                  "name": "Netherlands",
+                  "position": "home"
+               },
+               {
+                  "id": "q5n0o4p92p3l7s41",
+                  "name": "Sweden",
+                  "position": "away"
+               }
+            ],
+            "venue": "NRG Stadium, Houston"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "d689179a49f1477c",
+            "description": "Tunisia vs Japan",
+            "localStartDate": "2026-06-20",
+            "localStartTime": "22:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "2b3c4d5e6f7a8b9c",
+                  "name": "Group F"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "s7p2q6r14r5n9u63",
+                  "name": "Tunisia",
+                  "position": "home"
+               },
+               {
+                  "id": "a9x4y8z36z7v1c85",
+                  "name": "Japan",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio BBVA, Guadalupe"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "c6e3221fb16547ef",
+            "description": "Japan vs Sweden",
+            "localStartDate": "2026-06-25",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "2b3c4d5e6f7a8b9c",
+                  "name": "Group F"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "a9x4y8z36z7v1c85",
+                  "name": "Japan",
+                  "position": "home"
+               },
+               {
+                  "id": "q5n0o4p92p3l7s41",
+                  "name": "Sweden",
+                  "position": "away"
+               }
+            ],
+            "venue": "AT&T Stadium, Arlington"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "86be0a1fc9cf401a",
+            "description": "Tunisia vs Netherlands",
+            "localStartDate": "2026-06-25",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "2b3c4d5e6f7a8b9c",
+                  "name": "Group F"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "s7p2q6r14r5n9u63",
+                  "name": "Tunisia",
+                  "position": "home"
+               },
+               {
+                  "id": "e3b8c2d70d1z5g29",
+                  "name": "Netherlands",
+                  "position": "away"
+               }
+            ],
+            "venue": "Arrowhead Stadium, Kansas City"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "6096942be4e446f3",
+            "description": "Belgium vs Egypt",
+            "localStartDate": "2026-06-15",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "8e9f0a1b2c3d4e5f",
+                  "name": "Group G"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "h0e5k9f47g8c2j96",
+                  "name": "Belgium",
+                  "position": "home"
+               },
+               {
+                  "id": "s1p6v0q58r9n3u07",
+                  "name": "Egypt",
+                  "position": "away"
+               }
+            ],
+            "venue": "Lumen Field, Seattle"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "5db68ec408db4cba",
+            "description": "Iran vs New Zealand",
+            "localStartDate": "2026-06-15",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "8e9f0a1b2c3d4e5f",
+                  "name": "Group G"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "y7v2w6x14x5t9a63",
+                  "name": "Iran",
+                  "position": "home"
+               },
+               {
+                  "id": "f4c9d3e81e2a6h30",
+                  "name": "New Zealand",
+                  "position": "away"
+               }
+            ],
+            "venue": "SoFi Stadium, Inglewood"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "e1570b39467a499e",
+            "description": "Belgium vs Iran",
+            "localStartDate": "2026-06-21",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "8e9f0a1b2c3d4e5f",
+                  "name": "Group G"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "h0e5k9f47g8c2j96",
+                  "name": "Belgium",
+                  "position": "home"
+               },
+               {
+                  "id": "y7v2w6x14x5t9a63",
+                  "name": "Iran",
+                  "position": "away"
+               }
+            ],
+            "venue": "SoFi Stadium, Inglewood"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "7fbd0b3c53ad479d",
+            "description": "New Zealand vs Egypt",
+            "localStartDate": "2026-06-21",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "8e9f0a1b2c3d4e5f",
+                  "name": "Group G"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "f4c9d3e81e2a6h30",
+                  "name": "New Zealand",
+                  "position": "home"
+               },
+               {
+                  "id": "s1p6v0q58r9n3u07",
+                  "name": "Egypt",
+                  "position": "away"
+               }
+            ],
+            "venue": "BC Place, Vancouver"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "27fa60564bbe452d",
+            "description": "Egypt vs Iran",
+            "localStartDate": "2026-06-26",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "8e9f0a1b2c3d4e5f",
+                  "name": "Group G"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "s1p6v0q58r9n3u07",
+                  "name": "Egypt",
+                  "position": "home"
+               },
+               {
+                  "id": "y7v2w6x14x5t9a63",
+                  "name": "Iran",
+                  "position": "away"
+               }
+            ],
+            "venue": "Lumen Field, Seattle"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "8ca368decced411b",
+            "description": "New Zealand vs Belgium",
+            "localStartDate": "2026-06-26",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "8e9f0a1b2c3d4e5f",
+                  "name": "Group G"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "f4c9d3e81e2a6h30",
+                  "name": "New Zealand",
+                  "position": "home"
+               },
+               {
+                  "id": "h0e5k9f47g8c2j96",
+                  "name": "Belgium",
+                  "position": "away"
+               }
+            ],
+            "venue": "BC Place, Vancouver"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "279e2282eeb14b7c",
+            "description": "Spain vs Cape Verde",
+            "localStartDate": "2026-06-15",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "6a7b8c9d0e1f2a3b",
+                  "name": "Group H"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "p4m9n3o81o2k6r30",
+                  "name": "Spain",
+                  "position": "home"
+               },
+               {
+                  "id": "k3h8n2i70j1f5m29",
+                  "name": "Cape Verde",
+                  "position": "away"
+               }
+            ],
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "f6424e1c80ce4134",
+            "description": "Saudi Arabia vs Uruguay",
+            "localStartDate": "2026-06-15",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "6a7b8c9d0e1f2a3b",
+                  "name": "Group H"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "l0i5j9k47k8g2n96",
+                  "name": "Saudi Arabia",
+                  "position": "home"
+               },
+               {
+                  "id": "u9r4s8t36t7p1w85",
+                  "name": "Uruguay",
+                  "position": "away"
+               }
+            ],
+            "venue": "Hard Rock Stadium, Miami Gardens"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "c0a8a7c6f4254a8f",
+            "description": "Spain vs Saudi Arabia",
+            "localStartDate": "2026-06-21",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "6a7b8c9d0e1f2a3b",
+                  "name": "Group H"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "p4m9n3o81o2k6r30",
+                  "name": "Spain",
+                  "position": "home"
+               },
+               {
+                  "id": "l0i5j9k47k8g2n96",
+                  "name": "Saudi Arabia",
+                  "position": "away"
+               }
+            ],
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "7562fdb9ff354024",
+            "description": "Uruguay vs Cape Verde",
+            "localStartDate": "2026-06-21",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "6a7b8c9d0e1f2a3b",
+                  "name": "Group H"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "u9r4s8t36t7p1w85",
+                  "name": "Uruguay",
+                  "position": "home"
+               },
+               {
+                  "id": "k3h8n2i70j1f5m29",
+                  "name": "Cape Verde",
+                  "position": "away"
+               }
+            ],
+            "venue": "Hard Rock Stadium, Miami Gardens"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "d3fae5e7ade0408e",
+            "description": "Cape Verde vs Saudi Arabia",
+            "localStartDate": "2026-06-26",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "6a7b8c9d0e1f2a3b",
+                  "name": "Group H"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "k3h8n2i70j1f5m29",
+                  "name": "Cape Verde",
+                  "position": "home"
+               },
+               {
+                  "id": "l0i5j9k47k8g2n96",
+                  "name": "Saudi Arabia",
+                  "position": "away"
+               }
+            ],
+            "venue": "NRG Stadium, Houston"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "853860bbd3c04010",
+            "description": "Uruguay vs Spain",
+            "localStartDate": "2026-06-26",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "6a7b8c9d0e1f2a3b",
+                  "name": "Group H"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "u9r4s8t36t7p1w85",
+                  "name": "Uruguay",
+                  "position": "home"
+               },
+               {
+                  "id": "p4m9n3o81o2k6r30",
+                  "name": "Spain",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio Akron, Zapopan"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "853613da00bb41d2",
+            "description": "France vs Senegal",
+            "localStartDate": "2026-06-16",
+            "localStartTime": "15:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "4c5d6e7f8a9b0c1d",
+                  "name": "Group I"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "u3r8x2s70t1p5w29",
+                  "name": "France",
+                  "position": "home"
+               },
+               {
+                  "id": "n2k7l1m69m0i4p18",
+                  "name": "Senegal",
+                  "position": "away"
+               }
+            ],
+            "venue": "MetLife Stadium, East Rutherford"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "a809ca5889b1447d",
+            "description": "Iraq vs Norway",
+            "localStartDate": "2026-06-16",
+            "localStartTime": "18:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "4c5d6e7f8a9b0c1d",
+                  "name": "Group I"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "z8w3x7y25y6u0b74",
+                  "name": "Iraq",
+                  "position": "home"
+               },
+               {
+                  "id": "g5d0e4f92f3b7i41",
+                  "name": "Norway",
+                  "position": "away"
+               }
+            ],
+            "venue": "Gillette Stadium, Foxborough"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "8afd7737eec84b35",
+            "description": "France vs Iraq",
+            "localStartDate": "2026-06-22",
+            "localStartTime": "17:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "4c5d6e7f8a9b0c1d",
+                  "name": "Group I"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "u3r8x2s70t1p5w29",
+                  "name": "France",
+                  "position": "home"
+               },
+               {
+                  "id": "z8w3x7y25y6u0b74",
+                  "name": "Iraq",
+                  "position": "away"
+               }
+            ],
+            "venue": "Lincoln Financial Field, Philadelphia"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "9bd9ebee109d4f53",
+            "description": "Norway vs Senegal",
+            "localStartDate": "2026-06-22",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "4c5d6e7f8a9b0c1d",
+                  "name": "Group I"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "g5d0e4f92f3b7i41",
+                  "name": "Norway",
+                  "position": "home"
+               },
+               {
+                  "id": "n2k7l1m69m0i4p18",
+                  "name": "Senegal",
+                  "position": "away"
+               }
+            ],
+            "venue": "MetLife Stadium, East Rutherford"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "34419c9ecccc44d4",
+            "description": "Norway vs France",
+            "localStartDate": "2026-06-26",
+            "localStartTime": "15:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "4c5d6e7f8a9b0c1d",
+                  "name": "Group I"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "g5d0e4f92f3b7i41",
+                  "name": "Norway",
+                  "position": "home"
+               },
+               {
+                  "id": "u3r8x2s70t1p5w29",
+                  "name": "France",
+                  "position": "away"
+               }
+            ],
+            "venue": "Gillette Stadium, Foxborough"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "9ad78b945a7f4e3e",
+            "description": "Senegal vs Iraq",
+            "localStartDate": "2026-06-26",
+            "localStartTime": "15:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "4c5d6e7f8a9b0c1d",
+                  "name": "Group I"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "n2k7l1m69m0i4p18",
+                  "name": "Senegal",
+                  "position": "home"
+               },
+               {
+                  "id": "z8w3x7y25y6u0b74",
+                  "name": "Iraq",
+                  "position": "away"
+               }
+            ],
+            "venue": "BMO Field, Toronto"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "b35543620961442f",
+            "description": "Argentina vs Algeria",
+            "localStartDate": "2026-06-16",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "0f1a2b3c4d5e6f7a",
+                  "name": "Group J"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "d6b2g5e13a4c9f38",
+                  "name": "Argentina",
+                  "position": "home"
+               },
+               {
+                  "id": "e7a1h6c04f3d8b52",
+                  "name": "Algeria",
+                  "position": "away"
+               }
+            ],
+            "venue": "Arrowhead Stadium, Kansas City"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "44ed2f5170cf4ded",
+            "description": "Austria vs Jordan",
+            "localStartDate": "2026-06-16",
+            "localStartTime": "21:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "0f1a2b3c4d5e6f7a",
+                  "name": "Group J"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "g9d4j8e36f7b1i85",
+                  "name": "Austria",
+                  "position": "home"
+               },
+               {
+                  "id": "b0y5z9a47a8w2d96",
+                  "name": "Jordan",
+                  "position": "away"
+               }
+            ],
+            "venue": "Levi's Stadium, Santa Clara"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "27b6c081ee2d46e9",
+            "description": "Argentina vs Austria",
+            "localStartDate": "2026-06-22",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "0f1a2b3c4d5e6f7a",
+                  "name": "Group J"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "d6b2g5e13a4c9f38",
+                  "name": "Argentina",
+                  "position": "home"
+               },
+               {
+                  "id": "g9d4j8e36f7b1i85",
+                  "name": "Austria",
+                  "position": "away"
+               }
+            ],
+            "venue": "AT&T Stadium, Arlington"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "e9e3088f8d9b4caa",
+            "description": "Jordan vs Algeria",
+            "localStartDate": "2026-06-22",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "0f1a2b3c4d5e6f7a",
+                  "name": "Group J"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "b0y5z9a47a8w2d96",
+                  "name": "Jordan",
+                  "position": "home"
+               },
+               {
+                  "id": "e7a1h6c04f3d8b52",
+                  "name": "Algeria",
+                  "position": "away"
+               }
+            ],
+            "venue": "Levi's Stadium, Santa Clara"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "acba216c2937494c",
+            "description": "Algeria vs Austria",
+            "localStartDate": "2026-06-27",
+            "localStartTime": "21:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "0f1a2b3c4d5e6f7a",
+                  "name": "Group J"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "e7a1h6c04f3d8b52",
+                  "name": "Algeria",
+                  "position": "home"
+               },
+               {
+                  "id": "g9d4j8e36f7b1i85",
+                  "name": "Austria",
+                  "position": "away"
+               }
+            ],
+            "venue": "Arrowhead Stadium, Kansas City"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "a8e00e28dd534e04",
+            "description": "Jordan vs Argentina",
+            "localStartDate": "2026-06-27",
+            "localStartTime": "21:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "0f1a2b3c4d5e6f7a",
+                  "name": "Group J"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "b0y5z9a47a8w2d96",
+                  "name": "Jordan",
+                  "position": "home"
+               },
+               {
+                  "id": "d6b2g5e13a4c9f38",
+                  "name": "Argentina",
+                  "position": "away"
+               }
+            ],
+            "venue": "AT&T Stadium, Arlington"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "cc10fe28a1a94445",
+            "description": "Portugal vs DR Congo",
+            "localStartDate": "2026-06-17",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7a8b9c0d1e2f3a4b",
+                  "name": "Group K"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "j8g3h7i25i6e0l74",
+                  "name": "Portugal",
+                  "position": "home"
+               },
+               {
+                  "id": "m5j0p4k92l3h7o41",
+                  "name": "DR Congo",
+                  "position": "away"
+               }
+            ],
+            "venue": "NRG Stadium, Houston"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "768b59d68b4d44f8",
+            "description": "Uzbekistan vs Colombia",
+            "localStartDate": "2026-06-17",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7a8b9c0d1e2f3a4b",
+                  "name": "Group K"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "v0s5t9u47u8q2x96",
+                  "name": "Uzbekistan",
+                  "position": "home"
+               },
+               {
+                  "id": "l4i9o3j81k2g6n30",
+                  "name": "Colombia",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio Azteca, Mexico City"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "b92082da2ad047f3",
+            "description": "Portugal vs Uzbekistan",
+            "localStartDate": "2026-06-23",
+            "localStartTime": "12:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7a8b9c0d1e2f3a4b",
+                  "name": "Group K"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "j8g3h7i25i6e0l74",
+                  "name": "Portugal",
+                  "position": "home"
+               },
+               {
+                  "id": "v0s5t9u47u8q2x96",
+                  "name": "Uzbekistan",
+                  "position": "away"
+               }
+            ],
+            "venue": "NRG Stadium, Houston"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "eedfa5bfed5543c1",
+            "description": "Colombia vs DR Congo",
+            "localStartDate": "2026-06-23",
+            "localStartTime": "20:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7a8b9c0d1e2f3a4b",
+                  "name": "Group K"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "l4i9o3j81k2g6n30",
+                  "name": "Colombia",
+                  "position": "home"
+               },
+               {
+                  "id": "m5j0p4k92l3h7o41",
+                  "name": "DR Congo",
+                  "position": "away"
+               }
+            ],
+            "venue": "Estadio Akron, Zapopan"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "88ce9fddab8b4fc8",
+            "description": "Colombia vs Portugal",
+            "localStartDate": "2026-06-27",
+            "localStartTime": "19:30",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7a8b9c0d1e2f3a4b",
+                  "name": "Group K"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "l4i9o3j81k2g6n30",
+                  "name": "Colombia",
+                  "position": "home"
+               },
+               {
+                  "id": "j8g3h7i25i6e0l74",
+                  "name": "Portugal",
+                  "position": "away"
+               }
+            ],
+            "venue": "Hard Rock Stadium, Miami Gardens"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "24bb2c2e3ccb4b8a",
+            "description": "DR Congo vs Uzbekistan",
+            "localStartDate": "2026-06-27",
+            "localStartTime": "19:30",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "7a8b9c0d1e2f3a4b",
+                  "name": "Group K"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "m5j0p4k92l3h7o41",
+                  "name": "DR Congo",
+                  "position": "home"
+               },
+               {
+                  "id": "v0s5t9u47u8q2x96",
+                  "name": "Uzbekistan",
+                  "position": "away"
+               }
+            ],
+            "venue": "Mercedes-Benz Stadium, Atlanta"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "57454b15267840f2",
+            "description": "England vs Croatia",
+            "localStartDate": "2026-06-17",
+            "localStartTime": "15:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3d4e5f6a7b8c9d0e",
+                  "name": "Group L"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "t2q7w1r69s0o4v18",
+                  "name": "England",
+                  "position": "home"
+               },
+               {
+                  "id": "o7l2r6m14n5j9q63",
+                  "name": "Croatia",
+                  "position": "away"
+               }
+            ],
+            "venue": "AT&T Stadium, Arlington"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "bbe1e430b2ad44e3",
+            "description": "Ghana vs Panama",
+            "localStartDate": "2026-06-17",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3d4e5f6a7b8c9d0e",
+                  "name": "Group L"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "w5t0z4u92v3r7y41",
+                  "name": "Ghana",
+                  "position": "home"
+               },
+               {
+                  "id": "h6e1f5g03g4c8j52",
+                  "name": "Panama",
+                  "position": "away"
+               }
+            ],
+            "venue": "BMO Field, Toronto"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "78d0ce2720014acc",
+            "description": "England vs Ghana",
+            "localStartDate": "2026-06-23",
+            "localStartTime": "16:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3d4e5f6a7b8c9d0e",
+                  "name": "Group L"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "t2q7w1r69s0o4v18",
+                  "name": "England",
+                  "position": "home"
+               },
+               {
+                  "id": "w5t0z4u92v3r7y41",
+                  "name": "Ghana",
+                  "position": "away"
+               }
+            ],
+            "venue": "Gillette Stadium, Foxborough"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "41b5dba591df4b2d",
+            "description": "Panama vs Croatia",
+            "localStartDate": "2026-06-23",
+            "localStartTime": "19:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3d4e5f6a7b8c9d0e",
+                  "name": "Group L"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "h6e1f5g03g4c8j52",
+                  "name": "Panama",
+                  "position": "home"
+               },
+               {
+                  "id": "o7l2r6m14n5j9q63",
+                  "name": "Croatia",
+                  "position": "away"
+               }
+            ],
+            "venue": "BMO Field, Toronto"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "b743393be2e141ae",
+            "description": "Panama vs England",
+            "localStartDate": "2026-06-27",
+            "localStartTime": "17:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3d4e5f6a7b8c9d0e",
+                  "name": "Group L"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "h6e1f5g03g4c8j52",
+                  "name": "Panama",
+                  "position": "home"
+               },
+               {
+                  "id": "t2q7w1r69s0o4v18",
+                  "name": "England",
+                  "position": "away"
+               }
+            ],
+            "venue": "MetLife Stadium, East Rutherford"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      },
+      {
+         "matchInfo": {
+            "id": "b9e584e4b7d74ae8",
+            "description": "Croatia vs Ghana",
+            "localStartDate": "2026-06-27",
+            "localStartTime": "17:00",
+            "stage": {
+               "id": "a7f2b9e1c3d4k5m6",
+               "name": "Group Stage",
+               "group": {
+                  "id": "3d4e5f6a7b8c9d0e",
+                  "name": "Group L"
+               }
+            },
+            "contestants": [
+               {
+                  "id": "o7l2r6m14n5j9q63",
+                  "name": "Croatia",
+                  "position": "home"
+               },
+               {
+                  "id": "w5t0z4u92v3r7y41",
+                  "name": "Ghana",
+                  "position": "away"
+               }
+            ],
+            "venue": "Lincoln Financial Field, Philadelphia"
+         },
+         "matchData": {
+            "matchStatus": "Fixture",
+            "matchLengthMin": "",
+            "matchLengthSec": "",
+            "period": [
+               {
+                  "id": 1,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               },
+               {
+                  "id": 2,
+                  "lengthMin": "",
+                  "lengthSec": "",
+                  "stoppageTime": ""
+               }
+            ],
+            "scores": {
+               "ht": {
+                  "home": 0,
+                  "away": 0
+               },
+               "ft": {
+                  "home": 0,
+                  "away": 0
+               },
+               "et": {
+                  "home": 0,
+                  "away": 0
+               },
+               "total": {
+                  "home": 0,
+                  "away": 0
+               }
+            }
+         }
+      }
+   ]
+}
