@@ -13,14 +13,14 @@ from dotenv import dotenv_values
 # ----------------------------------------------------------
 
 # Load lookup tables
-with open("../data/groups.json", "r") as f:
+with open("data/groups.json", "r") as f:
     groups_data = json.load(f)
     f.close()
 
 groups_lookup = pd.DataFrame(groups_data["groups"])
 logger.success("Loaded groups lookup table")
 
-with open("../data/teams.json", "r") as f:
+with open("data/teams.json", "r") as f:
     teams_data = json.load(f)
     f.close()
 
