@@ -5,6 +5,9 @@
     // Static types
     type Tab = 'groups' | 'bracket' | 'matches';
     let activeTab: Tab = $state<Tab>('groups');
+
+    // Data
+    let { data } = $props();
 </script>
 <style>
     .schedule-container {
@@ -12,7 +15,6 @@
         background-size: cover;
         background-position: center;
         min-height: 91.8vh;
-        max-height: 91.8vh;
     }
 
     .schedule-content {
@@ -40,6 +42,14 @@
     .schedule-tabs button:hover {
         background: rgba(255, 255, 255, 0.4);
     }
+
+    .groups-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        margin-top: 2.5rem;
+        gap: 1rem;
+        width: 100%;
+    }
 </style>
 <div class="schedule-container">
     <div class="schedule-content">
@@ -50,12 +60,10 @@
         </div>
 
         {#if activeTab === 'groups'}
-            <div class="schedule-groups">
-                <div class="groups-grid">
-                    {#each groups as group (index)}
-                        <GroupCard id={group.id} name={group.name} teams={group.teams} />
-                    {/each}
-                </div>
+            <div class="groups-grid">
+                {#each data.standings as group(group.id)}
+                    <GroupCard id={group.id} name={group.name} teams={group.teams} />
+                {/each}
             </div>
         {:else if activeTab === 'bracket'}
             <p>Bracket content goes here...</p>

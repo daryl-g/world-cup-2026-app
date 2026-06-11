@@ -2,51 +2,75 @@
   "groups": [
     {
       "id": "7f2e9a4c1b5d8e3a",
-      "name": "Group A"
+      "name": "Group A",
+      "primaryColor": "#01E676",
+      "textColor": "#000000"
     },
     {
       "id": "3c9f1b2d4e6a7f8b",
-      "name": "Group B"
+      "name": "Group B",
+      "primaryColor": "#FF1644",
+      "textColor": "#FFFFFF"
     },
     {
       "id": "5a6c7d8e9f0b1a2c",
-      "name": "Group C"
+      "name": "Group C",
+      "primaryColor": "#FF9103",
+      "textColor": "#000000"
     },
     {
       "id": "1d2e3f4a5b6c7d8e",
-      "name": "Group D"
+      "name": "Group D",
+      "primaryColor": "#304FFE",
+      "textColor": "#FFFFFF"
     },
     {
       "id": "9f0a1b2c3d4e5f6a",
-      "name": "Group E"
+      "name": "Group E",
+      "primaryColor": "#6200EA",
+      "textColor": "#FFFFFF"
     },
     {
       "id": "2b3c4d5e6f7a8b9c",
-      "name": "Group F"
+      "name": "Group F",
+      "primaryColor": "#C7FF02",
+      "textColor": "#000000"
     },
     {
       "id": "8e9f0a1b2c3d4e5f",
-      "name": "Group G"
+      "name": "Group G",
+      "primaryColor": "#F06292",
+      "textColor": "#000000"
     },
     {
       "id": "6a7b8c9d0e1f2a3b",
-      "name": "Group H"
+      "name": "Group H",
+      "primaryColor": "#64FFDA",
+      "textColor": "#000000"
     },
     {
       "id": "4c5d6e7f8a9b0c1d",
-      "name": "Group I"
+      "name": "Group I",
+      "primaryColor": "#AB47BC",
+      "textColor": "#FFFFFF"
     },
     {
       "id": "0f1a2b3c4d5e6f7a",
-      "name": "Group J"
+      "name": "Group J",
+      "primaryColor": "#007888",
+      "textColor": "#FFFFFF"
     },
     {
       "id": "7a8b9c0d1e2f3a4b",
-      "name": "Group K"
+      "name": "Group K",
+      "primaryColor": "#FF3D00",
+      "textColor": "#FFFFFF"
     },
     {
       "id": "3d4e5f6a7b8c9d0e",
-      "name": "Group L"
+      "name": "Group L",
+      "primaryColor": "#2196F3",
+      "textColor": "#FFFFFF"
     }
   ]
 }
