@@ -1,13 +1,31 @@
 <script lang="ts">
-    // Static types
-
     // Data
-    let { matches, sort } = $props();
+    let {
+        matches,
+        filter,
+        value
+    }: {
+        matches: any[];
+        filter: 'date' | 'group';
+        value: string;
+    } = $props();
 
     // Custom function
     function getContestant(match: any, position: 'home' | 'away') {
         return match.matchInfo.contestants.find((contestant: any) => contestant.position === position);
     }
+
+    // Filter matches
+    const filteredMatches = $derived(
+        matches.filter((match: any) => {
+            if (filter === 'date') {
+                return match.matchInfo.localStartDate === value;
+            } else if (filter === 'group') {
+                return match.matchInfo.stage.group.name === value;
+            }
+            return true;
+        })
+    );
 </script>
 
 <style>
@@ -84,7 +102,7 @@
 </style>
 
 <div class="match-list">
-    {#each matches as match (match.matchInfo.id)}
+    {#each filteredMatches as match (match.matchInfo.id)}
         {@const homeTeam = getContestant(match, 'home')}
         {@const awayTeam = getContestant(match, 'away')}
         <div class="match-item">
