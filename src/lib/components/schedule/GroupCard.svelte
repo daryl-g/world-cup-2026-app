@@ -1,5 +1,4 @@
 <script lang="ts">
-
     type Team = {
         id: string;
         position: number;

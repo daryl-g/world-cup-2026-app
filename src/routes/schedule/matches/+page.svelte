@@ -1,7 +1,13 @@
 <script lang="ts">
+    // Custom component
+    import MatchList from '$lib/components/schedule/MatchList.svelte';
+
     // Static types
     type Sort = 'date' | 'group' | 'round';
     let activeSort: Sort = $state<Sort>('date');
+
+    // Data
+    let { data } = $props();
 </script>
 
 <style>
@@ -42,4 +48,6 @@
         <button onclick={() => activeSort = 'group'} class:active={activeSort === 'group'}>Group</button>
         <button onclick={() => activeSort = 'round'} class:active={activeSort === 'round'}>Round</button>
     </div>
+
+    <MatchList matches={data.matches} sort={activeSort} />
 </div>

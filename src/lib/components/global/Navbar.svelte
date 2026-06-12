@@ -56,17 +56,17 @@
         </a>
         <ul class="nav-links">
             <li class="nav-item">
-                <a href="/schedule" class="nav-link" class:active={page.url.pathname === '/schedule'}>
+                <a href="/schedule" class="nav-link" class:active={page.url.pathname.startsWith('/schedule')}>
                     Schedule
                 </a>
             </li>
             <li class="nav-item">
-                <a href="/preview" class="nav-link" class:active={page.url.pathname === '/preview'}>
+                <a href="/preview" class="nav-link" class:active={page.url.pathname.startsWith('/preview')}>
                     Preview
                 </a>
             </li>
             <li class="nav-item">
-                <a href="/live" class="nav-link" class:active={page.url.pathname === '/live'}>
+                <a href="/live" class="nav-link" class:active={page.url.pathname.startsWith('/live')}>
                     Live
                 </a>
             </li>

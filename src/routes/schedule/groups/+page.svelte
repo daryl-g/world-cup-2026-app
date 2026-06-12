@@ -1,6 +1,6 @@
 <script lang="ts">
     // Custom components
-    import GroupCard from '$lib/components/GroupCard.svelte';
+    import GroupCard from '$lib/components/schedule/GroupCard.svelte';
 
     // Data
     let { data } = $props();
