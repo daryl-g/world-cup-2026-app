@@ -2,7 +2,7 @@
   "matches": [
     {
       "matchInfo": {
-        "id": "d3db8ff41dfa4b04",
+        "id": "495856a9dcab4d4b",
         "description": "Mexico vs South Africa",
         "localStartDate": "2026-06-11",
         "localStartTime": "13:00",
@@ -68,7 +68,7 @@
     },
     {
       "matchInfo": {
-        "id": "849ef199fd904493",
+        "id": "e319bf3e64bf45ba",
         "description": "South Korea vs Czech Republic",
         "localStartDate": "2026-06-11",
         "localStartTime": "20:00",
@@ -95,7 +95,7 @@
         "venue": "Estadio Akron, Zapopan"
       },
       "matchData": {
-        "matchStatus": "Fixture",
+        "matchStatus": "Played",
         "matchLengthMin": "",
         "matchLengthSec": "",
         "period": [
@@ -126,15 +126,15 @@
             "away": 0
           },
           "total": {
-            "home": 0,
-            "away": 0
+            "home": 2,
+            "away": 1
           }
         }
       }
     },
     {
       "matchInfo": {
-        "id": "6f356075fb4a4cf6",
+        "id": "206f64dead48444b",
         "description": "Czech Republic vs South Africa",
         "localStartDate": "2026-06-18",
         "localStartTime": "12:00",
@@ -200,7 +200,7 @@
     },
     {
       "matchInfo": {
-        "id": "4a1ffc146a3f4700",
+        "id": "88ecbed3cfde4fed",
         "description": "Mexico vs South Korea",
         "localStartDate": "2026-06-18",
         "localStartTime": "19:00",
@@ -266,7 +266,7 @@
     },
     {
       "matchInfo": {
-        "id": "9023164c6dd3415e",
+        "id": "103f53231b724330",
         "description": "Czech Republic vs Mexico",
         "localStartDate": "2026-06-24",
         "localStartTime": "19:00",
@@ -332,7 +332,7 @@
     },
     {
       "matchInfo": {
-        "id": "f2d57c03e76c479e",
+        "id": "9c08a43150a94e17",
         "description": "South Africa vs South Korea",
         "localStartDate": "2026-06-24",
         "localStartTime": "19:00",
@@ -398,7 +398,7 @@
     },
     {
       "matchInfo": {
-        "id": "d559c6d69b1a44c4",
+        "id": "2f239561299d4263",
         "description": "Canada vs Bosnia and Herzegovina",
         "localStartDate": "2026-06-12",
         "localStartTime": "15:00",
@@ -464,7 +464,7 @@
     },
     {
       "matchInfo": {
-        "id": "25b5d39bc8c146da",
+        "id": "9d16cbbbb6be4972",
         "description": "Qatar vs Switzerland",
         "localStartDate": "2026-06-13",
         "localStartTime": "12:00",
@@ -530,7 +530,7 @@
     },
     {
       "matchInfo": {
-        "id": "2c2ceba6f01e48ac",
+        "id": "eebca057e0e64564",
         "description": "Switzerland vs Bosnia and Herzegovina",
         "localStartDate": "2026-06-18",
         "localStartTime": "12:00",
@@ -596,7 +596,7 @@
     },
     {
       "matchInfo": {
-        "id": "9dc9811e187c4804",
+        "id": "fdf6267d8f8549ce",
         "description": "Canada vs Qatar",
         "localStartDate": "2026-06-18",
         "localStartTime": "15:00",
@@ -662,7 +662,7 @@
     },
     {
       "matchInfo": {
-        "id": "3b4b540b09c44ee4",
+        "id": "706cf5804d4f4b52",
         "description": "Switzerland vs Canada",
         "localStartDate": "2026-06-24",
         "localStartTime": "12:00",
@@ -728,7 +728,7 @@
     },
     {
       "matchInfo": {
-        "id": "c120043427a64f8b",
+        "id": "eec05c63642a42ee",
         "description": "Bosnia and Herzegovina vs Qatar",
         "localStartDate": "2026-06-24",
         "localStartTime": "12:00",
@@ -794,7 +794,7 @@
     },
     {
       "matchInfo": {
-        "id": "362527ed0e73464b",
+        "id": "d2bec1607c8246d6",
         "description": "Brazil vs Morocco",
         "localStartDate": "2026-06-13",
         "localStartTime": "18:00",
@@ -860,7 +860,7 @@
     },
     {
       "matchInfo": {
-        "id": "d5b5a9de9a4b4ccc",
+        "id": "af7d0c342d304179",
         "description": "Haiti vs Scotland",
         "localStartDate": "2026-06-13",
         "localStartTime": "21:00",
@@ -926,7 +926,7 @@
     },
     {
       "matchInfo": {
-        "id": "7e6d8d36f4bd49a9",
+        "id": "992ce1595fa34bff",
         "description": "Scotland vs Morocco",
         "localStartDate": "2026-06-19",
         "localStartTime": "18:00",
@@ -992,7 +992,7 @@
     },
     {
       "matchInfo": {
-        "id": "34c21ce7f0c54c40",
+        "id": "c2d74bdde06f4684",
         "description": "Brazil vs Haiti",
         "localStartDate": "2026-06-19",
         "localStartTime": "20:30",
@@ -1058,7 +1058,7 @@
     },
     {
       "matchInfo": {
-        "id": "99b0fc64c53347d9",
+        "id": "60e9df20ee7e402b",
         "description": "Scotland vs Brazil",
         "localStartDate": "2026-06-24",
         "localStartTime": "18:00",
@@ -1124,7 +1124,7 @@
     },
     {
       "matchInfo": {
-        "id": "4722b13acf804fc7",
+        "id": "2855a7381a5e4b0e",
         "description": "Morocco vs Haiti",
         "localStartDate": "2026-06-24",
         "localStartTime": "18:00",
@@ -1190,7 +1190,7 @@
     },
     {
       "matchInfo": {
-        "id": "a71822ac64324a41",
+        "id": "6c517c3fe2ed4d2c",
         "description": "United States vs Paraguay",
         "localStartDate": "2026-06-12",
         "localStartTime": "18:00",
@@ -1256,7 +1256,7 @@
     },
     {
       "matchInfo": {
-        "id": "5c5a1688da7e4b6c",
+        "id": "14496169da6948b2",
         "description": "Australia vs Turkey",
         "localStartDate": "2026-06-13",
         "localStartTime": "21:00",
@@ -1322,7 +1322,7 @@
     },
     {
       "matchInfo": {
-        "id": "f38cd74165fb4013",
+        "id": "c428622eed3a4c89",
         "description": "United States vs Australia",
         "localStartDate": "2026-06-19",
         "localStartTime": "12:00",
@@ -1388,7 +1388,7 @@
     },
     {
       "matchInfo": {
-        "id": "d75a7ef725264124",
+        "id": "18517914c3564914",
         "description": "Turkey vs Paraguay",
         "localStartDate": "2026-06-19",
         "localStartTime": "20:00",
@@ -1454,7 +1454,7 @@
     },
     {
       "matchInfo": {
-        "id": "7682c3ce88fb4c88",
+        "id": "936e6d0c99ea4f73",
         "description": "Turkey vs United States",
         "localStartDate": "2026-06-25",
         "localStartTime": "19:00",
@@ -1520,7 +1520,7 @@
     },
     {
       "matchInfo": {
-        "id": "21b61d71d0334e37",
+        "id": "71990b24faa44cb2",
         "description": "Paraguay vs Australia",
         "localStartDate": "2026-06-25",
         "localStartTime": "19:00",
@@ -1586,7 +1586,7 @@
     },
     {
       "matchInfo": {
-        "id": "46cea1205d12466a",
+        "id": "175eba3175cb43ad",
         "description": "Germany vs Curaçao",
         "localStartDate": "2026-06-14",
         "localStartTime": "12:00",
@@ -1652,7 +1652,7 @@
     },
     {
       "matchInfo": {
-        "id": "5d170a06f3764eef",
+        "id": "42a0411b4cb6445e",
         "description": "Ivory Coast vs Ecuador",
         "localStartDate": "2026-06-14",
         "localStartTime": "19:00",
@@ -1718,7 +1718,7 @@
     },
     {
       "matchInfo": {
-        "id": "bceb4726731847aa",
+        "id": "26dfef04df974062",
         "description": "Germany vs Ivory Coast",
         "localStartDate": "2026-06-20",
         "localStartTime": "16:00",
@@ -1784,7 +1784,7 @@
     },
     {
       "matchInfo": {
-        "id": "a3cd6e47e2c94a27",
+        "id": "a1eecb106fe94908",
         "description": "Ecuador vs Curaçao",
         "localStartDate": "2026-06-20",
         "localStartTime": "19:00",
@@ -1850,7 +1850,7 @@
     },
     {
       "matchInfo": {
-        "id": "b90a9ef00c764c62",
+        "id": "efaa72d6b0894f21",
         "description": "Curaçao vs Ivory Coast",
         "localStartDate": "2026-06-25",
         "localStartTime": "16:00",
@@ -1916,7 +1916,7 @@
     },
     {
       "matchInfo": {
-        "id": "a1b4e618fe2c40ca",
+        "id": "1f6c6a4260944f42",
         "description": "Ecuador vs Germany",
         "localStartDate": "2026-06-25",
         "localStartTime": "16:00",
@@ -1982,7 +1982,7 @@
     },
     {
       "matchInfo": {
-        "id": "35ff0f4d411e4274",
+        "id": "ec17191aa4e14df5",
         "description": "Netherlands vs Japan",
         "localStartDate": "2026-06-14",
         "localStartTime": "15:00",
@@ -2048,7 +2048,7 @@
     },
     {
       "matchInfo": {
-        "id": "f66c7b179ed042b5",
+        "id": "6d5572491bf8441b",
         "description": "Sweden vs Tunisia",
         "localStartDate": "2026-06-14",
         "localStartTime": "20:00",
@@ -2114,7 +2114,7 @@
     },
     {
       "matchInfo": {
-        "id": "12c075188a2348d5",
+        "id": "07b6ec898618496a",
         "description": "Netherlands vs Sweden",
         "localStartDate": "2026-06-20",
         "localStartTime": "12:00",
@@ -2180,7 +2180,7 @@
     },
     {
       "matchInfo": {
-        "id": "d689179a49f1477c",
+        "id": "2a63c4a1eebb493a",
         "description": "Tunisia vs Japan",
         "localStartDate": "2026-06-20",
         "localStartTime": "22:00",
@@ -2246,7 +2246,7 @@
     },
     {
       "matchInfo": {
-        "id": "c6e3221fb16547ef",
+        "id": "f8376528ba674571",
         "description": "Japan vs Sweden",
         "localStartDate": "2026-06-25",
         "localStartTime": "18:00",
@@ -2312,7 +2312,7 @@
     },
     {
       "matchInfo": {
-        "id": "86be0a1fc9cf401a",
+        "id": "6d4dc496c43a4f19",
         "description": "Tunisia vs Netherlands",
         "localStartDate": "2026-06-25",
         "localStartTime": "18:00",
@@ -2378,7 +2378,7 @@
     },
     {
       "matchInfo": {
-        "id": "6096942be4e446f3",
+        "id": "386d54c807d649dd",
         "description": "Belgium vs Egypt",
         "localStartDate": "2026-06-15",
         "localStartTime": "12:00",
@@ -2444,7 +2444,7 @@
     },
     {
       "matchInfo": {
-        "id": "5db68ec408db4cba",
+        "id": "47b70cbc59e84b09",
         "description": "Iran vs New Zealand",
         "localStartDate": "2026-06-15",
         "localStartTime": "18:00",
@@ -2510,7 +2510,7 @@
     },
     {
       "matchInfo": {
-        "id": "e1570b39467a499e",
+        "id": "e0dcaf7c2207494c",
         "description": "Belgium vs Iran",
         "localStartDate": "2026-06-21",
         "localStartTime": "12:00",
@@ -2576,7 +2576,7 @@
     },
     {
       "matchInfo": {
-        "id": "7fbd0b3c53ad479d",
+        "id": "98b60311bd3a4044",
         "description": "New Zealand vs Egypt",
         "localStartDate": "2026-06-21",
         "localStartTime": "18:00",
@@ -2642,7 +2642,7 @@
     },
     {
       "matchInfo": {
-        "id": "27fa60564bbe452d",
+        "id": "9e88f91c22e342dc",
         "description": "Egypt vs Iran",
         "localStartDate": "2026-06-26",
         "localStartTime": "20:00",
@@ -2708,7 +2708,7 @@
     },
     {
       "matchInfo": {
-        "id": "8ca368decced411b",
+        "id": "2dd42b43ae5f4bd9",
         "description": "New Zealand vs Belgium",
         "localStartDate": "2026-06-26",
         "localStartTime": "20:00",
@@ -2774,7 +2774,7 @@
     },
     {
       "matchInfo": {
-        "id": "279e2282eeb14b7c",
+        "id": "a408c6c6746f4e29",
         "description": "Spain vs Cape Verde",
         "localStartDate": "2026-06-15",
         "localStartTime": "12:00",
@@ -2840,7 +2840,7 @@
     },
     {
       "matchInfo": {
-        "id": "f6424e1c80ce4134",
+        "id": "bcdb3dd562214f53",
         "description": "Saudi Arabia vs Uruguay",
         "localStartDate": "2026-06-15",
         "localStartTime": "18:00",
@@ -2906,7 +2906,7 @@
     },
     {
       "matchInfo": {
-        "id": "c0a8a7c6f4254a8f",
+        "id": "fc0154d934974b18",
         "description": "Spain vs Saudi Arabia",
         "localStartDate": "2026-06-21",
         "localStartTime": "12:00",
@@ -2972,7 +2972,7 @@
     },
     {
       "matchInfo": {
-        "id": "7562fdb9ff354024",
+        "id": "0803e03306364b20",
         "description": "Uruguay vs Cape Verde",
         "localStartDate": "2026-06-21",
         "localStartTime": "18:00",
@@ -3038,7 +3038,7 @@
     },
     {
       "matchInfo": {
-        "id": "d3fae5e7ade0408e",
+        "id": "5239c3a18a304259",
         "description": "Cape Verde vs Saudi Arabia",
         "localStartDate": "2026-06-26",
         "localStartTime": "19:00",
@@ -3104,7 +3104,7 @@
     },
     {
       "matchInfo": {
-        "id": "853860bbd3c04010",
+        "id": "7c2f21a6469f4fca",
         "description": "Uruguay vs Spain",
         "localStartDate": "2026-06-26",
         "localStartTime": "18:00",
@@ -3170,7 +3170,7 @@
     },
     {
       "matchInfo": {
-        "id": "853613da00bb41d2",
+        "id": "e60291feaf194401",
         "description": "France vs Senegal",
         "localStartDate": "2026-06-16",
         "localStartTime": "15:00",
@@ -3236,7 +3236,7 @@
     },
     {
       "matchInfo": {
-        "id": "a809ca5889b1447d",
+        "id": "3435055d15c14b18",
         "description": "Iraq vs Norway",
         "localStartDate": "2026-06-16",
         "localStartTime": "18:00",
@@ -3302,7 +3302,7 @@
     },
     {
       "matchInfo": {
-        "id": "8afd7737eec84b35",
+        "id": "64af99b658804316",
         "description": "France vs Iraq",
         "localStartDate": "2026-06-22",
         "localStartTime": "17:00",
@@ -3368,7 +3368,7 @@
     },
     {
       "matchInfo": {
-        "id": "9bd9ebee109d4f53",
+        "id": "a70f1d55709b46a0",
         "description": "Norway vs Senegal",
         "localStartDate": "2026-06-22",
         "localStartTime": "20:00",
@@ -3434,7 +3434,7 @@
     },
     {
       "matchInfo": {
-        "id": "34419c9ecccc44d4",
+        "id": "fdfc66d1bf2949bc",
         "description": "Norway vs France",
         "localStartDate": "2026-06-26",
         "localStartTime": "15:00",
@@ -3500,7 +3500,7 @@
     },
     {
       "matchInfo": {
-        "id": "9ad78b945a7f4e3e",
+        "id": "43d7d46e6f7e4d14",
         "description": "Senegal vs Iraq",
         "localStartDate": "2026-06-26",
         "localStartTime": "15:00",
@@ -3566,7 +3566,7 @@
     },
     {
       "matchInfo": {
-        "id": "b35543620961442f",
+        "id": "dbde853343674dc5",
         "description": "Argentina vs Algeria",
         "localStartDate": "2026-06-16",
         "localStartTime": "20:00",
@@ -3632,7 +3632,7 @@
     },
     {
       "matchInfo": {
-        "id": "44ed2f5170cf4ded",
+        "id": "bd8a289fa85c4c02",
         "description": "Austria vs Jordan",
         "localStartDate": "2026-06-16",
         "localStartTime": "21:00",
@@ -3698,7 +3698,7 @@
     },
     {
       "matchInfo": {
-        "id": "27b6c081ee2d46e9",
+        "id": "542166f8ac24418b",
         "description": "Argentina vs Austria",
         "localStartDate": "2026-06-22",
         "localStartTime": "12:00",
@@ -3764,7 +3764,7 @@
     },
     {
       "matchInfo": {
-        "id": "e9e3088f8d9b4caa",
+        "id": "b5b1f976f91c42f3",
         "description": "Jordan vs Algeria",
         "localStartDate": "2026-06-22",
         "localStartTime": "20:00",
@@ -3830,7 +3830,7 @@
     },
     {
       "matchInfo": {
-        "id": "acba216c2937494c",
+        "id": "a316d7a4aac34410",
         "description": "Algeria vs Austria",
         "localStartDate": "2026-06-27",
         "localStartTime": "21:00",
@@ -3896,7 +3896,7 @@
     },
     {
       "matchInfo": {
-        "id": "a8e00e28dd534e04",
+        "id": "2f0aedeae7324b69",
         "description": "Jordan vs Argentina",
         "localStartDate": "2026-06-27",
         "localStartTime": "21:00",
@@ -3962,7 +3962,7 @@
     },
     {
       "matchInfo": {
-        "id": "cc10fe28a1a94445",
+        "id": "8816b11454194fd3",
         "description": "Portugal vs DR Congo",
         "localStartDate": "2026-06-17",
         "localStartTime": "12:00",
@@ -4028,7 +4028,7 @@
     },
     {
       "matchInfo": {
-        "id": "768b59d68b4d44f8",
+        "id": "70995c8b9b2a4667",
         "description": "Uzbekistan vs Colombia",
         "localStartDate": "2026-06-17",
         "localStartTime": "20:00",
@@ -4094,7 +4094,7 @@
     },
     {
       "matchInfo": {
-        "id": "b92082da2ad047f3",
+        "id": "51725596065045b0",
         "description": "Portugal vs Uzbekistan",
         "localStartDate": "2026-06-23",
         "localStartTime": "12:00",
@@ -4160,7 +4160,7 @@
     },
     {
       "matchInfo": {
-        "id": "eedfa5bfed5543c1",
+        "id": "f7a90bd8f14448a4",
         "description": "Colombia vs DR Congo",
         "localStartDate": "2026-06-23",
         "localStartTime": "20:00",
@@ -4226,7 +4226,7 @@
     },
     {
       "matchInfo": {
-        "id": "88ce9fddab8b4fc8",
+        "id": "aff018fdb62740cb",
         "description": "Colombia vs Portugal",
         "localStartDate": "2026-06-27",
         "localStartTime": "19:30",
@@ -4292,7 +4292,7 @@
     },
     {
       "matchInfo": {
-        "id": "24bb2c2e3ccb4b8a",
+        "id": "6de6f13451ba4ded",
         "description": "DR Congo vs Uzbekistan",
         "localStartDate": "2026-06-27",
         "localStartTime": "19:30",
@@ -4358,7 +4358,7 @@
     },
     {
       "matchInfo": {
-        "id": "57454b15267840f2",
+        "id": "b2d1f5f5441e48c6",
         "description": "England vs Croatia",
         "localStartDate": "2026-06-17",
         "localStartTime": "15:00",
@@ -4424,7 +4424,7 @@
     },
     {
       "matchInfo": {
-        "id": "bbe1e430b2ad44e3",
+        "id": "49839112cac94bd3",
         "description": "Ghana vs Panama",
         "localStartDate": "2026-06-17",
         "localStartTime": "19:00",
@@ -4490,7 +4490,7 @@
     },
     {
       "matchInfo": {
-        "id": "78d0ce2720014acc",
+        "id": "ec9076cad8f644d5",
         "description": "England vs Ghana",
         "localStartDate": "2026-06-23",
         "localStartTime": "16:00",
@@ -4556,7 +4556,7 @@
     },
     {
       "matchInfo": {
-        "id": "41b5dba591df4b2d",
+        "id": "b4efe955955c474d",
         "description": "Panama vs Croatia",
         "localStartDate": "2026-06-23",
         "localStartTime": "19:00",
@@ -4622,7 +4622,7 @@
     },
     {
       "matchInfo": {
-        "id": "b743393be2e141ae",
+        "id": "378b5637fd254d50",
         "description": "Panama vs England",
         "localStartDate": "2026-06-27",
         "localStartTime": "17:00",
@@ -4688,7 +4688,7 @@
     },
     {
       "matchInfo": {
-        "id": "b9e584e4b7d74ae8",
+        "id": "b6a8244c70194dd9",
         "description": "Croatia vs Ghana",
         "localStartDate": "2026-06-27",
         "localStartTime": "17:00",

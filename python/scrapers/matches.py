@@ -2,6 +2,7 @@
 
 # Imports
 import os
+import uuid
 import json
 import requests
 import pandas as pd
@@ -60,6 +61,184 @@ if current_stage == "Group Stage":
         )
 
         soup = BeautifulSoup(request.text, "html.parser")
+        all_matches = soup.find_all("section")[3].find_all("section")
+
+        for match in all_matches:
+            # Match info
+            ## Fill in what's available
+            match_info = {
+                "id": (uuid.uuid4().hex)[:16],
+                "description": match.find("h3").text.strip(),
+                "localStartDate": (
+                    match.find("time")
+                    .find_all(
+                        "span", {"class": "bday dtstart published updated itvstart"}
+                    )[0]
+                    .text.strip()
+                ),
+                "localStartTime": "",
+                "stage": {
+                    "id": stages_lookup[stages_lookup["name"] == "Group Stage"][
+                        "id"
+                    ].iloc[0],
+                    "name": "Group Stage",
+                    "group": {
+                        "id": groups_lookup[groups_lookup["name"] == group]["id"].iloc[
+                            0
+                        ],
+                        "name": group,
+                    },
+                },
+                "contestants": [
+                    {
+                        "id": "",
+                        "name": "",
+                        "position": "home",
+                    },
+                    {
+                        "id": "",
+                        "name": "",
+                        "position": "away",
+                    },
+                ],
+                "venue": match.find("span", {"itemprop": "name address"}).text.strip(),
+            }
+
+            ## Extract the time string and clean it
+            time_str = (
+                match.find("time")
+                .find("div", {"class": "ftime"})
+                .text.replace("\xa0", " ")
+                .replace(".", "")
+                .strip()
+            )
+
+            ## Remove timezone if found
+            if "UTC" in time_str:
+                time_str = time_str.rsplit(" ", 1)[0].strip()
+
+            ## Convert to 24-hour
+            time_24h = pd.to_datetime(time_str, format="%I:%M %p").strftime("%H:%M")
+            match_info["localStartTime"] = time_24h
+
+            ## Get the contestants
+            home_team = match.find("h3").text.strip().split(" vs ")[0]
+            away_team = match.find("h3").text.strip().split(" vs ")[1]
+
+            match_info["contestants"][0]["name"] = home_team
+            match_info["contestants"][1]["name"] = away_team
+
+            ## Get contestant IDs
+            ### General cases
+            if (
+                not teams_lookup[
+                    (teams_lookup["fullName"] == home_team)
+                    | (teams_lookup["shortName"] == home_team)
+                ].empty
+                and not teams_lookup[
+                    (teams_lookup["fullName"] == away_team)
+                    | (teams_lookup["shortName"] == away_team)
+                ].empty
+            ):
+                home_team_info = teams_lookup[
+                    (teams_lookup["fullName"] == home_team)
+                    | (teams_lookup["shortName"] == home_team)
+                ].reset_index(drop=True)
+                away_team_info = teams_lookup[
+                    (teams_lookup["fullName"] == away_team)
+                    | (teams_lookup["shortName"] == away_team)
+                ].reset_index(drop=True)
+            ### Special cases
+            else:
+                # Wikipedia name - FIFA-recognised name
+                special_cases = {
+                    "Cape Verde": "Cabo Verde",
+                    "DR Congo": "Congo DR",
+                    "Turkey": "Türkiye",
+                }
+                home_team_info = teams_lookup[
+                    teams_lookup["fullName"]
+                    == special_cases.get(home_team, home_team)
+                    | teams_lookup["shortName"]
+                    == special_cases.get(home_team, home_team)
+                ].reset_index(drop=True)
+                away_team_info = teams_lookup[
+                    teams_lookup["fullName"]
+                    == special_cases.get(away_team, away_team)
+                    | teams_lookup["shortName"]
+                    == special_cases.get(away_team, away_team)
+                ].reset_index(drop=True)
+
+            match_info["contestants"][0]["id"] = (
+                home_team_info.loc[0, "id"] if len(home_team_info) > 0 else None
+            )
+            match_info["contestants"][1]["id"] = (
+                away_team_info.loc[0, "id"] if len(away_team_info) > 0 else None
+            )
+
+            # -------------------------------------------------------------------------
+            # Match data
+            match_data = {
+                "matchStatus": (
+                    "Fixture"
+                    if "Match" in match.find("th", {"class": "fscore"}).text.strip()
+                    else "Played"
+                ),
+                "matchLengthMin": "",
+                "matchLengthSec": "",
+                "period": [
+                    {
+                        "id": 1,
+                        "lengthMin": "",
+                        "lengthSec": "",
+                        "stoppageTime": "",  # In seconds
+                    },
+                    {
+                        "id": 2,
+                        "lengthMin": "",
+                        "lengthSec": "",
+                        "stoppageTime": "",  # In seconds
+                    },
+                ],
+                "scores": {
+                    "ht": {
+                        "home": 0,
+                        "away": 0,
+                    },
+                    "ft": {
+                        "home": 0,
+                        "away": 0,
+                    },
+                    "et": {
+                        "home": 0,
+                        "away": 0,
+                    },
+                    "total": {
+                        "home": (
+                            len(
+                                match.find("td", {"class": "fhgoal"})
+                                .text.strip()
+                                .split("\n")
+                            )
+                            if match.find("td", {"class": "fhgoal"}).text != ""
+                            else 0
+                        ),
+                        "away": (
+                            len(
+                                match.find("td", {"class": "fagoal"})
+                                .text.strip()
+                                .split("\n")
+                            )
+                            if match.find("td", {"class": "fagoal"}).text != ""
+                            else 0
+                        ),
+                    },
+                },
+            }
+
+            # -------------------------------------------------------------------------
+            # Combine match info and data, and add to matches list
+            matches.append({"matchInfo": match_info, "matchData": match_data})
 else:
     request = requests.get(
         "https://en.wikipedia.org/api/rest_v1/page/html/2026_FIFA_World_Cup_knockout_stage",
