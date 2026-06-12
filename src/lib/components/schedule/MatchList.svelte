@@ -103,6 +103,10 @@
         font-family: 'Inter', sans-serif;
         font-size: 0.85rem;
     }
+
+    .match-venue {
+        text-align: right;
+    }
 </style>
 
 <div class="match-list">
