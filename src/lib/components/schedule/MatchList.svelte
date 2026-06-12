@@ -42,7 +42,7 @@
         padding: 0.7rem;
         border-bottom: 2px solid rgba(0, 0, 0, 0.1);
         display: grid;
-        grid-template-columns: auto 1fr auto;
+        grid-template-columns: 1fr auto 1fr;
         align-items: center;
         gap: 0.5rem;
         width: 100%;
