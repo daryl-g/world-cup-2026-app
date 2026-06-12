@@ -54,7 +54,7 @@
 <div class="teams-container">
     <div class="teams-grid">
         {#each data.teams as team}
-            <a href="/team/{team.id}" class="team-card" style="background-color: {team.primaryColor}; color: {team.textColor}">
+            <a href="/teams/{team.id}" class="team-card" style="background-color: {team.primaryColor}; color: {team.textColor}">
                 <img src={team.flag} alt="{team.shortName} flag" width=20 class="team-flag" />
                 <p class="team-name">{team.fullName}</p>
             </a>
