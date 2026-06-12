@@ -65,7 +65,11 @@
         </div>
         <div class="team-stats-fixtures">
             <div class="team-fixtures">
-                <MatchList matches={data.matches} filter={'team'} value={data.team.name} />
+                <MatchList
+                    matches={data.matches}
+                    filter={'team'}
+                    value={data.team.id}
+                />
             </div>
             <div class="team-stats">
                 <h3>Stats</h3>

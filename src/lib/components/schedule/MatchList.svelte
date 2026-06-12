@@ -25,7 +25,7 @@
             } else if (filter === 'team') {
                 const homeTeam = getContestant(match, 'home');
                 const awayTeam = getContestant(match, 'away');
-                return homeTeam.name === value || awayTeam.name === value;
+                return homeTeam.id === value || awayTeam.id === value;
             }
             return true;
         })
