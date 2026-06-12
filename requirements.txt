@@ -6,6 +6,7 @@ comm==0.2.3
 debugpy==1.8.21
 decorator==5.3.1
 executing==2.2.1
+html5lib==1.1
 idna==3.18
 ipykernel==7.3.0
 ipython==9.14.1
@@ -41,3 +42,4 @@ traitlets==5.15.1
 typing_extensions==4.15.0
 urllib3==2.7.0
 wcwidth==0.8.1
+webencodings==0.5.1
