@@ -6,7 +6,7 @@
         value
     }: {
         matches: any[];
-        filter: 'date' | 'group';
+        filter: 'date' | 'group' | 'team';
         value: string;
     } = $props();
 
@@ -22,6 +22,10 @@
                 return match.matchInfo.localStartDate === value;
             } else if (filter === 'group') {
                 return match.matchInfo.stage.group.name === value;
+            } else if (filter === 'team') {
+                const homeTeam = getContestant(match, 'home');
+                const awayTeam = getContestant(match, 'away');
+                return homeTeam.name === value || awayTeam.name === value;
             }
             return true;
         })
