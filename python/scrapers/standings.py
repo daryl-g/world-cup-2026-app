@@ -6,6 +6,7 @@ import json
 import requests
 import pandas as pd
 
+from time import sleep
 from io import StringIO
 from loguru import logger
 from bs4 import BeautifulSoup
@@ -122,6 +123,7 @@ for group in groups_lookup["name"]:
     )
 
     logger.success(f"Scraped standings for {group}")
+    sleep(1)
 
 # ----------------------------------------------------------
 
