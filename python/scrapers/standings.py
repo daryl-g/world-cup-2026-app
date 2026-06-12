@@ -43,6 +43,7 @@ for group in groups_lookup["name"]:
     )
 
     soup = BeautifulSoup(request.text, "html.parser")
+    print(soup.find_all("table", {"class": "wikitable"}))
     table = pd.read_html(StringIO(str(soup.find_all("table", {"class": "wikitable"}))))[
         1
     ]
