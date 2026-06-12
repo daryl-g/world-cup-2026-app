@@ -113,7 +113,7 @@
                         <tr>
                             <td>{team.position}</td>
                             <td><img src={team.flag} alt="{team.shortName} flag" width="25" /></td>
-                            <td>{team.shortName}</td>
+                            <td><a href="/teams/{team.id}" style="text-decoration: none; color: inherit;">{team.teamName}</a></td>
                             <td>{team.played}</td>
                             <td>{team.points}</td>
                         </tr>
